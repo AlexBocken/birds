@@ -1,0 +1,4698 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "82151684-c3e4-11ec-9cbd-9cb6d013a4a3",
+    "deck_config_uuid": "742fcd0a-a6d2-11eb-a150-9cb6d013a4a3",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "742fcd0a-a6d2-11eb-a150-9cb6d013a4a3",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Readings",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 10
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 1000
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "1662RVXC671824.mp3",
+        "1663RV_hochgeladen.mp3",
+        "220417_001XC.mp3",
+        "Alexandrine Parakeet, Großer Alexandersittich.mp3",
+        "Alpine Accentor, Alpenbraunelle.mp3",
+        "BG.mp3",
+        "Barn Swallow, Rauchschwalbe.mp3",
+        "Bearded Reedling, Bartmeise.mp3",
+        "Black Kite, Schwarzmilan.mp3",
+        "Black Tern, Trauerseeschwalbe.mp3",
+        "Black Woodpecker, Schwarzspecht (2).mp3",
+        "Black Woodpecker, Schwarzspecht (3).mp3",
+        "Black Woodpecker, Schwarzspecht (4).mp3",
+        "Black Woodpecker, Schwarzspecht.mp3",
+        "Black-headed Gull, Lachmoewe.mp3",
+        "Black-headed Gull, Lachmöwe.mp3",
+        "Black-legged Kittiwake, Dreizehenmöwe.mp3",
+        "Black-necked Grebe, Schwarzhalstaucher (1).mp3",
+        "Black-tailed Godwit, Uferschnepfe.mp3",
+        "Black-winged Stilt, Stelzenläufer.mp3",
+        "Blue Rock Thrush, Blaumerle.mp3",
+        "Bluethroat, Blaukehlchen.mp3",
+        "Bohemian Waxwing - call, Seidenschwanz.mp3",
+        "Boreal Owl, Raufußkauz.mp3",
+        "Brambling, Bergfink.mp3",
+        "Canada Goose Kanadagans.mp3",
+        "Canada Goose, Kanadagans.mp3",
+        "Caspian Tern, Raubseeschwalbe.mp3",
+        "Cetti's Warbler, Seidensaenger.mp3",
+        "Cirl Bunting, Zaunammer.mp3",
+        "Coal Tit, Tannenmeise-3504a3b6963e5a8cbc513fa77e2d2a42e321d7c9.mp3",
+        "Coal Tit, Tannenmeise-a194a960c0075161300c295095e148eece848f8f.mp3",
+        "Coal Tit, Tannenmeise.mp3",
+        "Collared Flycatcher, Halsbandschnäpper (2).mp3",
+        "Collared Flycatcher, Halsbandschnäpper-ec099e825d977c9ef2ee9b9caf9df5b4677d69c4.mp3",
+        "Collared Flycatcher, Halsbandschnäpper.mp3",
+        "Common Blackbird - call, Amsel.mp3",
+        "Common Blackbird, Amsel (1).mp3",
+        "Common Blackbird, Amsel.mp3",
+        "Common Buzzard, Mäusebussard.mp3",
+        "Common Chaffinch - call, Buchfink.mp3",
+        "Common Chaffinch, Buchfink.mp3",
+        "Common Chiffchaff , ZilpZalp.mp3",
+        "Common Cuckoo - female call, Kuckuck.mp3",
+        "Common Cuckoo, Kuckuck.mp3",
+        "Common Firecrest - song, Sommergoldhähnchen.mp3",
+        "Common Grasshopper Warbler, Feldschwirl-e8dc74ce2d0e42c0064ae519ceaa4406fccdcbcb.mp3",
+        "Common Greenshank, Grünschenkel-3a10c76ac74332f0027d7d387a9836d9c5d7570a.mp3",
+        "Common Greenshank, Grünschenkel-f4d75289bd755d2ab05e02983c60c4480d4fc2d0.mp3",
+        "Common House Martin, Mehlschwalbe.mp3",
+        "Common Kestrel, Turmfalke.mp3",
+        "Common Kingfisher, Eisvogel.mp3",
+        "Common Linnet, Bluthaenfling (1).mp3",
+        "Common Linnet, Bluthaenfling.mp3",
+        "Common Linnet, Bluthänfling.mp3",
+        "Common Loon - song, Eistaucher.mp3",
+        "Common Merganser ,Gaensesaeger.mp3",
+        "Common Merganser, Gänsesäger.mp3",
+        "Common Moorhen, Teichhuhn.mp3",
+        "Common Nightingale, Nachtigall-79499a2b325e84fca5bbf11aa7354d50ec520e38.mp3",
+        "Common Nightingale, Nachtigall.mp3",
+        "Common Pheasant, Jagdfasan.mp3",
+        "Common Pochard - song, Tafelente.mp3",
+        "Common Quail, Wachtel.mp3",
+        "Common Redshank, Rotschenkel-97741931c48892876871bc7c8db3902dda2883c0.mp3",
+        "Common Redshank, Rotschenkel.mp3",
+        "Common Redstart , Gartenrotschwanz.mp3",
+        "Common Redstart - call, Gartenrotschwanz.mp3",
+        "Common Redstart, Gartenrotschwanz (1).mp3",
+        "Common Redstart, Gartenrotschwanz.mp3",
+        "Common Reed Bunting, Rohrammer (1).mp3",
+        "Common Reed Bunting, Rohrammer.mp3",
+        "Common Ringed Plover, Sandregenpfeifer - Charadrius hiaticula.mp3",
+        "Common Rosefinch, Karmingimpel.mp3",
+        "Common Sandpiper, Flussuferläufer.mp3",
+        "Common Shelduck, Brandgans (2).mp3",
+        "Common Shelduck, Brandgans.mp3",
+        "Common Snipe, Bekassine-1d71afddf9703ef1533bbc2e9f503acac0017e5d.mp3",
+        "Common Snipe, Bekassine.mp3",
+        "Common Starling, Star-85c519e6746de9bc6f28efe0d8bdfe89d3cd1694.mp3",
+        "Common Starling, Star-db343670e2ee574da06332b523a57641a1c6f5a1.mp3",
+        "Common Starling, Star.mp3",
+        "Common Swift, Mauersegler.mp3",
+        "Common Tern, Flussseeschwalbe-2d692a86af399373ec1c0841392935e202fc6487.mp3",
+        "Common Tern, Flussseeschwalbe.mp3",
+        "Common Whitethroat, Dorngrasmücke.mp3",
+        "Common whitethroat, Dorngrasmuecke.mp3",
+        "Corn Crake, Wachtelkönig.mp3",
+        "Dunlin, Alpenstrandläufer.mp3",
+        "Dunnock, Heckenbraunelle (1).mp3",
+        "Dunnock, Heckenbraunelle (2).mp3",
+        "Egyptian Goose, Nilgans.mp3",
+        "Eurasian Bittern - flight call, Rohrdommel.mp3",
+        "Eurasian Blackcap - call, Mönchsgrasmücke.mp3",
+        "Eurasian Blue Tit , Blaumeise.mp3",
+        "Eurasian Blue Tit, Blaumeise.mp3",
+        "Eurasian Bullfinch - call, Gimpel.mp3",
+        "Eurasian Collared Dove, Türkentaube.mp3",
+        "Eurasian Coot, Blaesshuhn.mp3",
+        "Eurasian Curlew, Großer Brachvogel-5b3a42fc1c9a3f48eed7ffe041009375da306165.mp3",
+        "Eurasian Curlew, Großer Brachvogel.mp3",
+        "Eurasian Hoopoe, Wiedehopf.mp3",
+        "Eurasian Jay, Eichelhaeher.mp3",
+        "Eurasian Jay, Eichelhäher.mp3",
+        "Eurasian Nuthatch, Kleiber (1).mp3",
+        "Eurasian Nuthatch, Kleiber.mp3",
+        "Eurasian Nuthatch, Kleiber2.mp3",
+        "Eurasian Nuthatch, Kleiber3.mp3",
+        "Eurasian Nuthatch, Kleiber4.mp3",
+        "Eurasian Oystercatcher, Austernfischer (1).mp3",
+        "Eurasian Pygmy Owl, Sperlingskauz.mp3",
+        "Eurasian Siskin - call, Erlenzeisig.mp3",
+        "Eurasian Siskin, Erlenzeisig.mp3",
+        "Eurasian Skylark, Feldlerche.mp3",
+        "Eurasian Sparrowhawk, Sperber.mp3",
+        "Eurasian Stone-curlew, Triel.mp3",
+        "Eurasian Teal , Krickente (2).mp3",
+        "Eurasian Teal , Krickente.mp3",
+        "Eurasian Tree Sparrow, Feldsperling.mp3",
+        "Eurasian Treecreeper, Waldbaumläufer-b0fa0f4ec2e237440a98015898f85be3596b8c5f.mp3",
+        "Eurasian Treecreeper, Waldbaumläufer-fb69e917d299ed0927ca4c313fdbf85c7faa27de.mp3",
+        "Eurasian Treecreeper, Waldbaumläufer.mp3",
+        "Eurasian Wigeon, Pfeifente.mp3",
+        "Eurasian Woodcock, Waldschnepfe.mp3",
+        "Eurasian Wren - call, Zaunkönig.mp3",
+        "Eurasian Wren, ZaunKoenig.mp3",
+        "Eurasian Wren, Zaunkönig.mp3",
+        "Eurasian Wryneck , Wendehals.mp3",
+        "Eurasian Wryneck, Wendehals.mp3",
+        "Eurasian scops owl, Zwergohreule.mp3",
+        "European Bee-eater, Bienenfresser-badf8415ede70250208d49ce8d7d88587137840a.mp3",
+        "European Bee-eater, Bienenfresser.mp3",
+        "European Crested Tit, Haubenmeise (1).mp3",
+        "European Crested Tit, Haubenmeise.mp3",
+        "European Goldfinch , Stieglitz.mp3",
+        "European Goldfinch, Stieglitz (1).mp3",
+        "European Greenfinch, Gruenfink.mp3",
+        "European Greenfinch, Grünfink (1).mp3",
+        "European Greenfinch, Grünfink (3).mp3",
+        "European Greenfinch, Grünfink-e86e85a4603fa325c31c94f6aa33669f067a501e.mp3",
+        "European Greenfinch, Grünfink.mp3",
+        "European Herring Gull, Silbermöwe.mp3",
+        "European Nightjar - call, Ziegenmelker.mp3",
+        "European Nightjar, Ziegenmelker.mp3",
+        "European Pied Flycatcher , Trauerschnaepper.mp3",
+        "European Robin, Rotkehlchen (1).mp3",
+        "European Robin, Rotkehlchen.mp3",
+        "European Robin, rotkehlchen (2).mp3",
+        "European Serin, Girlitz.mp3",
+        "European Stonechat, Schwarzkehlchen.mp3",
+        "European Turtle Dove, Turteltaube (1).mp3",
+        "Fieldfare, Wacholderdrossel.mp3",
+        "Gadwall, Schnatterente.mp3",
+        "Garden Warbler, Gartengrasmücke.mp3",
+        "Goldcrest - call, Wintergoldhähnchen.mp3",
+        "Goldcrest, Wintergoldhähnchen-b7156650f6498bc7ce7a675db72f5ce28147703f.mp3",
+        "Great Cormorant, Kormoran.mp3",
+        "Great Crested Grebe, Haubentaucher.mp3",
+        "Great Egret, Silberreiher.mp3",
+        "Great Reed Warbler, Drosselrohrsänger.mp3",
+        "Great Spotted Woodpecker ,Buntspecht.mp3",
+        "Great Spotted Woodpecker, Buntspecht2.mp3",
+        "Great Spotted Woodpecker,Buntspecht.mp3",
+        "Great Tit, Kohlmeise.mp3",
+        "Great Tit, Kohlmeise2.mp3",
+        "Great Tit, Kohlmeise3.mp3",
+        "Great Tit, Kohlmeise4.mp3",
+        "Greater Flamingo, Rosaflamingo.mp3",
+        "Green Sandpiper, Waldwasserläufer-eb30efab017f873765cb504e51acc7b2a6af4dd6.mp3",
+        "Green Sandpiper, Waldwasserläufer2.mp3",
+        "Green Woodpecker - song, Grünspecht.mp3",
+        "Greenish Warbler - call, Grünlaubsänger.mp3",
+        "Greenish Warbler - song, Grünlaubsänger.mp3",
+        "Grey Heron, Graureiher.mp3",
+        "Grey Partridge,  Rebhuhn.mp3",
+        "Grey Partridge, Rebhuhn.mp3",
+        "Grey Plover, Kiebitzregenpfeifer.mp3",
+        "Grey Wagtail, Gebirgsstelze.mp3",
+        "Grey-headed Woodpecker, Grauspecht (1).mp3",
+        "Grey-headed Woodpecker, Grauspecht (2).mp3",
+        "Grey-headed Woodpecker, Grauspecht-6c1eccd245980aa20812a6ca5c1610574c78a8b2.mp3",
+        "Grey-headed Woodpecker, Grauspecht.mp3",
+        "Greylag Goose,Graugans.mp3",
+        "Hawfinch, Kernbeißer-3e33eff4256e27ceea96d02dd8eb0f4408f296e3.mp3",
+        "Hawfinch, Kernbeißer.mp3",
+        "House Sparrow, Haussperling.mp3",
+        "Hume's Leaf Warbler call, Tienschan-Laubsänger.mp3",
+        "Icterine Warbler, Gelbspötter.mp3",
+        "Jackdaw, Dohle.mp3",
+        "Kentish Plover, Seeregenpfeifer.mp3",
+        "Lesser Redpoll, Alpenbirkenzeisig.mp3",
+        "Lesser Spotted Woodpecker, Kleinspecht (2).mp3",
+        "Lesser Spotted Woodpecker, Kleinspecht-0f06ffb9875a3e26685c94dadc1f8b936c31eb9c.mp3",
+        "Lesser Spotted Woodpecker, Kleinspecht.mp3",
+        "Lesser Whitethroat, Klappergrasmücke.mp3",
+        "Little Bittern, Zwergdommel.mp3",
+        "Little Crake, Kleines Sumpfhuhn.mp3",
+        "Little Grebe - flight call, Zwergtaucher.mp3",
+        "Little Grebe, Zwergtaucher.mp3",
+        "Little Owl, Steinkauz.mp3",
+        "Little Owl, Steinkauz2.mp3",
+        "Little Tern, Zwergseeschwalbe.mp3",
+        "Long-eared Owl, Waldohreule-f73b269e458340398e48d0c396c0e8fdb19ffa02.mp3",
+        "Long-eared Owl, Waldohreule.mp3",
+        "Long-tailed Tit , Schwanzmeise.mp3",
+        "Long-tailed Tit, Schwanzmeise.mp3",
+        "Mallard,Stockente.mp3",
+        "Mandarin Duck, Mandarinente.mp3",
+        "Marisken.mp3",
+        "Marsh Tit, Sumpfmeise (1).mp3",
+        "Marsh Tit, Sumpfmeise.mp3",
+        "Meadow Pipit , Wiesenpieper.mp3",
+        "Melodious Warbler, Orpheusspötter.mp3",
+        "Middle Spotted Woodpecker, Mittelspecht-172ed80b452932e1064a425376f831387d5b022f.mp3",
+        "Middle Spotted Woodpecker, Mittelspecht.mp3",
+        "Mistle Thrush - call, Misteldrossel.mp3",
+        "Mistle Thrush, Misteldrossel.mp3",
+        "Monk Parakeet, Mönchssittich.mp3",
+        "Mönchsgrasmücke, Moenchsgrasmuecke.mp3",
+        "Northern Gannet, Basstölpel.mp3",
+        "Northern Goshawk, Habicht.mp3",
+        "Northern Raven - call, Kolkrabe.mp3",
+        "Northern Raven, Kolkrabe.mp3",
+        "Northern Shoveler, Löffelente.mp3",
+        "Northern Wheatear, Steinschmätzer.mp3",
+        "Oriole - call,  Pirol.mp3",
+        "Oriole - song, Pirol.mp3",
+        "Ortolan Bunting, Ortolan.mp3",
+        "Ortolan Bunting,Ortolan.mp3",
+        "Pied Avocet, Säbelschnäbler.mp3",
+        "Red Crossbill, Fichtenkreuzschnabel-3d440a25a945e586922c102fe2dd24e1cac198b6.mp3",
+        "Red Crossbill, Fichtenkreuzschnabel.mp3",
+        "Red Kite, Rotmilan.mp3",
+        "Red-billed Chough, Alpenkrähe.mp3",
+        "Red-breasted Flycatcher, Zwergschnäpper (2).mp3",
+        "Red-breasted Flycatcher, Zwergschnäpper.mp3",
+        "Red-necked Grebe, Rothalstaucher.mp3",
+        "Red-throated Loon - call, Sterntaucher.mp3",
+        "Red-throated Loon - song, Sterntaucher.mp3",
+        "Red-throated Pipit - call, Rotkehlpieper.mp3",
+        "Redwing, Rotdrossel.mp3",
+        "Ring Ouzel, Ringdrossel.mp3",
+        "River Warbler, Schlagschwirl.mp3",
+        "Rock Bunting, Zippammer-d41a6f2812b113a68dde320bd53509814f2afc93.mp3",
+        "Rock Bunting, Zippammer.mp3",
+        "Rook, Saatkraehe.mp3",
+        "Ruddy Shelduck , Rostgans.mp3",
+        "Ruddy Shelduck, Rostgans.mp3",
+        "Sand Martin, Uferschwalbe-b2d0bb5e3c4d72a5bf41ba3826119cd4af98cfca.mp3",
+        "Sand Martin, Uferschwalbe.mp3",
+        "Sanderling - call, Sanderling.mp3",
+        "Sardinian Warbler, Samtkopf-Grasmücke-e4e18dfd77c60dd189c4a2add4b95a141e97f02b.mp3",
+        "Sardinian Warbler, Samtkopf-Grasmücke.mp3",
+        "Short-toed Treecreeper , Gartenbaumlaeufer.mp3",
+        "Short-toed Treecreeper, Gartenbaumläufer.mp3",
+        "Sperber.mp3",
+        "Spotted Crake, Tüpfelsumpfhuhn.mp3",
+        "Spotted Flycatcher, Grauschnaepper.mp3",
+        "Spotted Flycatcher, Grauschnäpper.mp3",
+        "Spotted Nutcracker, Tannenhäher.mp3",
+        "Spotted Nutcracker,Tannenhäher.mp3",
+        "Spotted Redshank, Dunkler Wasserläufer-7ab6f6035de60ec207bbd70006d9567c7579b02c.mp3",
+        "Spotted Redshank, Dunkler Wasserläufer.mp3",
+        "Stock Dove, Hohltaube.mp3",
+        "Subalpine Warbler - song, Weißbart-Grasmücke.mp3",
+        "Tawny Owl, Waldkauz (1).mp3",
+        "Tawny Owl, Waldkauz-0a5a61cb3b4978a27395b5ede99e8c4b0649602f.mp3",
+        "Tawny Owl, Waldkauz.mp3",
+        "Tawny Pipit, Brachpieper.mp3",
+        "Tree Pipit, Baumpieper - Anthus trivialis.mp3",
+        "Tree Pipit, Baumpieper.mp3",
+        "Tufted Duck, Reiherente.mp3",
+        "WanderfalteT.mp3",
+        "Water Rail - flight call, Wasserralle.mp3",
+        "Water Rail, Wasserralle.mp3",
+        "Western Barn Owl, Schleiereule.mp3",
+        "Western Bonelli's Warbler, Berglaubsänger.mp3",
+        "Western Jackdaw, Dohle.mp3",
+        "Western Yellow Wagtail, Schafstelze.mp3",
+        "Whimbrel, Regenbrachvogel.mp3",
+        "Whiskered Tern, Weißbart-Seeschwalbe.mp3",
+        "White Wagtail, Bachstelze-49b9b2a174e5b6bc5a793044512cbd61d76a21d0.mp3",
+        "White Wagtail, Bachstelze.mp3",
+        "White-tailed Eagle, Seeadler.mp3",
+        "Whooper Swan, Singschwan.mp3",
+        "Willow Tit, Weidenmeise.mp3",
+        "Willow Warbler, Fitis.mp3",
+        "Wood Sandpiper, Bruchwasserläufer.mp3",
+        "Wood Warbler, Waldlaubsaenger.mp3",
+        "Wood Warbler, Waldlaubsänger.mp3",
+        "Woodlark - song,  Heidelerche.mp3",
+        "Woodlark, Heidelerche.mp3",
+        "XC315864 - Girlitz - Serinus serinus call.mp3",
+        "XC332360 - Trauerschnäpper - Ficedula hypoleuca call.mp3",
+        "XC495713 - Fitis - Phylloscopus trochilus call.mp3",
+        "XC536772 - Rotdrossel - Turdus iliacus call.mp3",
+        "XC642207 - Gartenbaumläufer - Certhia brachydactyla call.mp3",
+        "XC680840 - Ringelgans - Branta bernicla.mp3",
+        "XC680870 - Austernfischer - Haematopus ostralegus.mp3",
+        "XC682020 - Singdrossel - Turdus philomelos.mp3",
+        "Yellowhammer, Goldammer (1).mp3",
+        "Yellowhammer, Goldammer-636394ebe52f0619ce86a5fecaa13f4ed0933ebe.mp3",
+        "Yellowhammer, Goldammer.mp3",
+        "Zitting Cisticola, Zistensänger.mp3",
+        "Zitting cisticola, Zistensaenger.MP3",
+        "alexandersittich.jpg",
+        "alpenbirkenzeisig.jpg",
+        "alpenbraunelle.jpg",
+        "alpenkrähe.jpg",
+        "alpenstrandläufer.jpg",
+        "amsel.jpg",
+        "austernfischer.jpg",
+        "bachstelze.jpg",
+        "bartmeise.jpg",
+        "basstölpel.jpg",
+        "baumpieper.jpg",
+        "bekassine.jpg",
+        "bergfink.jpg",
+        "berglaubsänger.jpg",
+        "bienenfresser.jpg",
+        "birkhuhn.jpg",
+        "blaukehlchen.jpg",
+        "blaumeise.jpg",
+        "blaumerle.jpg",
+        "bluthänfling.jpg",
+        "blässgans.jpg",
+        "blässhuhn.jpg",
+        "boreal owl - call, Raufußkauz.mp3",
+        "brachpieper.jpg",
+        "brandgans.jpg",
+        "bruchwasserläufer.jpg",
+        "buchfink.jpg",
+        "buntspecht.jpg",
+        "chaffinch - song, Buchfink.mp3",
+        "common linnet - flight call, Bluthaenfling.mp3",
+        "dohle.jpg",
+        "dorngrasmücke.jpg",
+        "dreizehenmöwe.jpg",
+        "drosselrohrsänger.jpg",
+        "dunkler_wasserläufer.jpg",
+        "dunnock- flight call, Heckenbraunelle.mp3",
+        "eichelhäher.jpg",
+        "eistaucher.jpg",
+        "eisvogel.jpg",
+        "erlenzeisig.jpg",
+        "feldlerche.jpg",
+        "feldschwirl.jpg",
+        "feldsperling.jpg",
+        "fichtenkreuzschnabel.jpg",
+        "fitis.jpg",
+        "flussseeschwalbe.jpg",
+        "flussuferläufer.jpg",
+        "gartenbaumläufer.jpg",
+        "gartengrasmücke.jpg",
+        "gartenrotschwanz.jpg",
+        "gebirgsstelze.jpg",
+        "gelbspötter.jpg",
+        "gimpel.jpg",
+        "girlitz.jpg",
+        "goldammer.jpg",
+        "graugans.jpg",
+        "graureiher.jpg",
+        "grauschnäpper.jpg",
+        "grauspecht",
+        "grauspecht.jpg",
+        "großer_brachvogel.jpg",
+        "grünfink",
+        "grünfink.jpg",
+        "grünlaubsänger.jpg",
+        "grünschenkel.jpg",
+        "grünspecht.jpg",
+        "gänsesäger.jpg",
+        "habicht.jpg",
+        "halsbandschnäpper.jpg",
+        "haubenmeise.jpg",
+        "haubentaucher.jpg",
+        "haussperling.jpg",
+        "heckenbraunelle.jpg",
+        "heidelerche.jpg",
+        "hohltaube.jpg",
+        "jagdfasan.jpg",
+        "kanadagans.jpg",
+        "karmingimpel.jpg",
+        "kernbeißer.jpg",
+        "kiebitzregenpfeifer.jpg",
+        "klappergrasmücke.jpg",
+        "kleiber.jpg",
+        "kleines_sumpfhuhn.jpg",
+        "kleinspecht.jpg",
+        "kohlmeise.jpg",
+        "kolkrabe.jpg",
+        "kormoran.jpg",
+        "krickente.jpg",
+        "kuckuck.jpg",
+        "lachmöve.jpg",
+        "löffelente.jpg",
+        "mandarinente.jpg",
+        "mariskensänger.jpg",
+        "mauersegler.jpg",
+        "mehlschwalbe.jpg",
+        "misteldrossel.jpg",
+        "mittelspecht.jpg",
+        "mäusebussard.jpg",
+        "mönchsgrasmücke.jpg",
+        "mönchsittich.jpg",
+        "nachtigall.jpg",
+        "nilgans.jpg",
+        "orpheusspötter.jpg",
+        "ortolan.jpg",
+        "pfeifente.jpg",
+        "pirol.jpg",
+        "raubseeschwalbe.jpg",
+        "rauchschwalbe.jpg",
+        "raufußkauz.jpg",
+        "rebhuhn.jpg",
+        "regenbrachvogel.jpg",
+        "reiherente.jpg",
+        "ringdrossel.jpg",
+        "ringelgans.jpg",
+        "rohrammer.jpg",
+        "rohrdommel.jpg",
+        "rosaflamingo.jpg",
+        "rostgans.jpg",
+        "rotdrossel.jpg",
+        "rothalstaucher.jpg",
+        "rotkehlchen.jpg",
+        "rotkehlpieper.jpg",
+        "rotmilan.jpg",
+        "rotschenkel.jpg",
+        "saatkrähe.jpg",
+        "samtkopf-grasmücke.jpg",
+        "sanderling.jpg",
+        "sandregenpfeifer.jpg",
+        "schafstelze.jpg",
+        "schlagschwirl.jpg",
+        "schleiereule.jpg",
+        "schnatterernte.jpg",
+        "schwanzmeise.jpg",
+        "schwarzhalstaucher.jpg",
+        "schwarzkehlchen.jpg",
+        "schwarzmilan.jpg",
+        "schwarzspecht.jpg",
+        "seeadler.jpg",
+        "seeregenpfeifer.jpg",
+        "seidenschwanz.jpg",
+        "seidensänger.jpg",
+        "silbermöwe.jpg",
+        "silberreiher.jpg",
+        "singdrossel.jpg",
+        "singschwan.jpg",
+        "skylark - flight call, Feldlerche.mp3",
+        "sommergoldhähnchen.jpg",
+        "sperber.jpg",
+        "sperlingskauz.jpg",
+        "star.jpg",
+        "steinkauz.jpg",
+        "steinschmätzer.jpg",
+        "stelzenläufer.jpg",
+        "sterntaucher.jpg",
+        "stieglitz.jpg",
+        "stockente.jpg",
+        "sumpfmeise.jpg",
+        "säbelschnäbler.jpg",
+        "tafelente.jpg",
+        "tannenhäher.jpg",
+        "tannenmeise.jpg",
+        "teichhuhn.jpg",
+        "tienschan-laubsänger.jpg",
+        "trauerschnäpper.jpg",
+        "trauerseeschwalbe.jpg",
+        "triel.jpg",
+        "turmfalke.jpg",
+        "turteltaube.jpg",
+        "tüpfelsumpfhuhn.jpg",
+        "türkentaube.jpg",
+        "uferschnepfe.jpg",
+        "uferschwalbe.jpg",
+        "wacholderdrossel.jpg",
+        "wachtel.jpg",
+        "wachtelkönig.jpg",
+        "waldbaumläufer.jpg",
+        "waldkauz.jpg",
+        "waldlaubsänger.jpg",
+        "waldohreule.jpg",
+        "waldschnepfe.jpg",
+        "waldwasserläufer.jpg",
+        "wanderfalke.jpg",
+        "wasserralle.jpg",
+        "weidenmeise.jpg",
+        "weißbart-seeschwalbe.jpg",
+        "weißbartgrasmücke.jpg",
+        "wendehals.jpg",
+        "wiedehopf.jpg",
+        "wiesenpieper.jpg",
+        "wintergoldhähnchen.jpg",
+        "yellowhammer call, Goldammer.mp3",
+        "zaunammer.jpg",
+        "zaunkönig.jpg",
+        "ziegenmelker.jpg",
+        "zilpzalp.jpg",
+        "zippammer.jpg",
+        "zistensänger.jpg",
+        "zwergdommel.jpg",
+        "zwergohreule.jpg",
+        "zwergschnäpper.jpg",
+        "zwergseeschwalbe.jpg",
+        "zwergtaucher.jpg"
+    ],
+    "name": "Sounds of Birds",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n}\nimg{\n\tmax-width: 100%;\n\tmax-height: 100%;\n}\n.container{\n\tdisplay:flex;\n\tflex-direction: column;\n\tjustify-content: flex-start;\n\talign-items: center;\n\tmax-height: 100vh;\n}\n.wrapper{\n\tmax-height: 50vw;\n}\n\nhr{\n\twidth: 100%;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "Sound",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "English",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "German",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "Sound_category",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Liberation Sans",
+                    "name": "img",
+                    "ord": 4,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Birds",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tmpls": [
+                {
+                    "afmt": "<div class=container>\n{{FrontSide}}\n\n<hr id=answer>\n\n<div class=english>{{English}}</div>\n<div class=german>{{German}}</div>\n<div class=cat>{{Sound_category}}</div>\n<div class=wrapper>{{img}}</div>\n</div>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Sound}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Cetti's Warbler, Seidensaenger.mp3]",
+                "Cetti's Warbler ",
+                " Seidensänger",
+                "song",
+                "<img class=bird src=seidensänger.jpg >"
+            ],
+            "guid": "pxG$8#pW9l",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Chiffchaff , ZilpZalp.mp3]",
+                "Common Chiffchaff ",
+                " Zilpzalp",
+                "song",
+                "<img class=\"bird\" src=\"zilpzalp.jpg\">"
+            ],
+            "guid": "ELebZ(Dpg(",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common whitethroat, Dorngrasmuecke.mp3]",
+                "Common whitethroat ",
+                " Dorngrasmücke",
+                "song",
+                "<img class=\"bird\" src=\"dorngrasmücke.jpg\">"
+            ],
+            "guid": "BoVL3aWnBP",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian scops owl, Zwergohreule.mp3]",
+                "Eurasian scops owl ",
+                " Zwergohreule",
+                "song",
+                "<img class=bird src=zwergohreule.jpg >"
+            ],
+            "guid": "NUA,(69:SR",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Stone-curlew, Triel.mp3]",
+                "Eurasian Stone-curlew ",
+                " Triel",
+                "song",
+                "<img class=bird src=triel.jpg >"
+            ],
+            "guid": "r#k.r35!g%",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Greenfinch, Gruenfink.mp3]",
+                "European Greenfinch ",
+                " Grünfink",
+                "song",
+                "<img class=bird src=grünfink.jpg >"
+            ],
+            "guid": "wBiq~!$mZ<",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Tit, Kohlmeise.mp3]",
+                "Great Tit ",
+                " Kohlmeise",
+                "song",
+                "<img class=bird src=kohlmeise.jpg >"
+            ],
+            "guid": "K1M%2^}K(Z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Tit, Kohlmeise2.mp3]",
+                "Great Tit ",
+                " Kohlmeise",
+                "song",
+                "<img class=bird src=kohlmeise.jpg >"
+            ],
+            "guid": "K$!YlOFpO1",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Tit, Kohlmeise3.mp3]",
+                "Great Tit ",
+                " Kohlmeise",
+                "song",
+                "<img class=bird src=kohlmeise.jpg >"
+            ],
+            "guid": "M*,R~KxN6Y",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Tit, Kohlmeise4.mp3]",
+                "Great Tit ",
+                " Kohlmeise",
+                "song",
+                "<img class=bird src=kohlmeise.jpg >"
+            ],
+            "guid": "HH-c7F7,i%",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey-headed Woodpecker, Grauspecht.mp3]",
+                "Grey-headed Woodpecker ",
+                " Grauspecht",
+                "song",
+                "<img class=bird src=grauspecht >"
+            ],
+            "guid": "LoIz)DhSrf",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Long-tailed Tit , Schwanzmeise.mp3]",
+                "Long-tailed Tit ",
+                " Schwanzmeise",
+                "call",
+                "<img class=bird src=schwanzmeise.jpg >"
+            ],
+            "guid": "OOiW+HHTuD",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Mönchsgrasmücke, Moenchsgrasmuecke.mp3]",
+                "Eurasian blackcap ",
+                " Mönchsgrasmücke",
+                "song",
+                "<img class=bird src=mönchsgrasmücke.jpg >"
+            ],
+            "guid": "E<^uEYu$u@",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Rook, Saatkraehe.mp3]",
+                "Rook",
+                " Saatkrähe",
+                "",
+                "<img class=bird src=saatkrähe.jpg >"
+            ],
+            "guid": "fhBxVgiD|f",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Yellowhammer, Goldammer.mp3]",
+                "Yellowhammer ",
+                " Goldammer",
+                "song",
+                "<img class=bird src=goldammer.jpg >"
+            ],
+            "guid": "fjD1hNrk)B",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Zitting cisticola, Zistensaenger.MP3]",
+                "Zitting cisticola ",
+                " Zistensänger",
+                "song",
+                "<img class=bird src=zistensänger.jpg >"
+            ],
+            "guid": "C2$^po4(>c",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Cuckoo, Kuckuck.mp3]",
+                "Common Cuckoo ",
+                " Kuckuck",
+                "song",
+                "<img class=bird src=kuckuck.jpg >"
+            ],
+            "guid": "zI<|a$1JO:",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Nightingale, Nachtigall.mp3]",
+                "Common Nightingale ",
+                " Nachtigall",
+                "song",
+                "<img class=bird src=nachtigall.jpg >"
+            ],
+            "guid": "q70V/-I@pR",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redstart , Gartenrotschwanz.mp3]",
+                "Common Redstart ",
+                " Gartenrotschwanz",
+                "song",
+                "<img class=bird src=gartenrotschwanz.jpg >"
+            ],
+            "guid": "e|2&`k=eaG",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Starling, Star.mp3]",
+                "Common Starling ",
+                " Star",
+                "song",
+                "<img class=bird src=star.jpg >"
+            ],
+            "guid": "oIUbHS4fKe",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Blue Tit, Blaumeise.mp3]",
+                "Eurasian Blue Tit",
+                " Blaumeise",
+                "",
+                "<img class=bird src=blaumeise.jpg >"
+            ],
+            "guid": "s/),6,GgBc",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Coot, Blaesshuhn.mp3]",
+                "Eurasian Coot",
+                " Blässhuhn",
+                "",
+                "<img class=bird src=blässhuhn.jpg >"
+            ],
+            "guid": "kb}M<E:S^V",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wryneck , Wendehals.mp3]",
+                "Eurasian Wryneck ",
+                " Wendehals",
+                "song",
+                "<img class=bird src=wendehals.jpg >"
+            ],
+            "guid": "Pcjzc}p4_Y",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Pied Flycatcher , Trauerschnaepper.mp3]",
+                "European Pied Flycatcher ",
+                " Trauerschnäpper",
+                "song",
+                "<img class=bird src=trauerschnäpper.jpg >"
+            ],
+            "guid": "NoTtmZLJTj",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Serin, Girlitz.mp3]",
+                "European Serin ",
+                " Girlitz",
+                "song",
+                "<img class=bird src=girlitz.jpg >"
+            ],
+            "guid": "w8QHitbvSO",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Lesser Whitethroat, Klappergrasmücke.mp3]",
+                "Lesser Whitethroat ",
+                " Klappergrasmücke",
+                "song",
+                "<img class=bird src=klappergrasmücke.jpg >"
+            ],
+            "guid": "dYG9W`>(&w",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Marsh Tit, Sumpfmeise.mp3]",
+                "Marsh Tit ",
+                " Sumpfmeise",
+                "song",
+                "<img class=bird src=sumpfmeise.jpg >"
+            ],
+            "guid": "u8CY42:((5",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Short-toed Treecreeper, Gartenbaumläufer.mp3]",
+                "Short-toed Treecreeper ",
+                " Gartenbaumläufer",
+                "song",
+                "<img class=bird src=gartenbaumläufer.jpg >"
+            ],
+            "guid": "fp%7X^.dS>",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tufted Duck, Reiherente.mp3]",
+                "Tufted Duck",
+                " Reiherente",
+                "",
+                "<img class=bird src=reiherente.jpg >"
+            ],
+            "guid": "dkZ)M{%B&M",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Willow Warbler, Fitis.mp3]",
+                "Willow Warbler ",
+                " Fitis",
+                "song",
+                "<img class=bird src=fitis.jpg >"
+            ],
+            "guid": "J*QP[4@[0Z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Blackbird, Amsel.mp3]",
+                "Common Blackbird ",
+                " Amsel",
+                "song",
+                "<img class=bird src=amsel.jpg >"
+            ],
+            "guid": "Mj%`$McE(_",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Buzzard, Mäusebussard.mp3]",
+                "Common Buzzard",
+                " Mäusebussard",
+                "",
+                "<img class=\"bird\" src=\"mäusebussard.jpg\">"
+            ],
+            "guid": "C_jD?8t1%?",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Linnet, Bluthaenfling.mp3]",
+                "Common Linnet ",
+                " Bluthänfling",
+                "song",
+                "<img class=bird src=bluthänfling.jpg >"
+            ],
+            "guid": "ycdNR!r]7b",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Swift, Mauersegler.mp3]",
+                "Common Swift",
+                " Mauersegler",
+                "",
+                "<img class=bird src=mauersegler.jpg >"
+            ],
+            "guid": "C^:|~&uW4c",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Greenfinch, Grünfink.mp3]",
+                "European Greenfinch ",
+                " Grünfink",
+                "song",
+                "<img class=bird src=grünfink.jpg >"
+            ],
+            "guid": "M5<]}]HQo}",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Wood Warbler, Waldlaubsaenger.mp3]",
+                "Wood Warbler ",
+                " Waldlaubsänger",
+                "call",
+                "<img class=bird src=waldlaubsänger.jpg >"
+            ],
+            "guid": "MK5M/mF~~q",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Wood Warbler, Waldlaubsänger.mp3]",
+                "Wood Warbler ",
+                " Waldlaubsänger",
+                "song",
+                "<img class=bird src=waldlaubsänger.jpg >"
+            ],
+            "guid": "Pym@%Q}GB:",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Barn Swallow, Rauchschwalbe.mp3]",
+                "Barn Swallow",
+                " Rauchschwalbe",
+                "",
+                "<img class=\"bird\" src=\"rauchschwalbe.jpg\">"
+            ],
+            "guid": "EH*UoMz>4h",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Linnet, Bluthaenfling (1).mp3]",
+                "Common Linnet ",
+                " Bluthänfling",
+                "song",
+                "<img class=bird src=bluthänfling.jpg >"
+            ],
+            "guid": "jLg!)c<kFj",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Tern, Flussseeschwalbe.mp3]",
+                "Common Tern",
+                " Flussseeschwalbe",
+                "",
+                "<img class=bird src=flussseeschwalbe.jpg >"
+            ],
+            "guid": "v)1x%50kvZ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Egyptian Goose, Nilgans.mp3]",
+                "Egyptian Goose",
+                " Nilgans",
+                "",
+                "<img class=bird src=nilgans.jpg >"
+            ],
+            "guid": "gP:<B~^eyM",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Nuthatch, Kleiber.mp3]",
+                "Eurasian Nuthatch ",
+                " Kleiber",
+                "call",
+                "<img class=bird src=kleiber.jpg >"
+            ],
+            "guid": "iq&B@L9PP?",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Pygmy Owl, Sperlingskauz.mp3]",
+                "Eurasian Pygmy Owl ",
+                " Sperlingskauz",
+                "song",
+                "<img class=bird src=sperlingskauz.jpg >"
+            ],
+            "guid": "z1oLt$hd<q",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Sparrowhawk, Sperber.mp3]",
+                "Eurasian Sparrowhawk ",
+                " Sperber",
+                "juvenile",
+                "<img class=bird src=sperber.jpg >"
+            ],
+            "guid": "upK0-sJ[vw",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wigeon, Pfeifente.mp3]",
+                "Eurasian Wigeon",
+                " Pfeifente",
+                "",
+                "<img class=bird src=pfeifente.jpg >"
+            ],
+            "guid": "sgy`s56sBs",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wren, ZaunKoenig.mp3]",
+                "Eurasian Wren ",
+                " Zaunkönig",
+                "song",
+                "<img class=bird src=zaunkönig.jpg >"
+            ],
+            "guid": "nccBoi)p$+",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Crested Tit, Haubenmeise.mp3]",
+                "European Crested Tit",
+                " Haubenmeise",
+                "",
+                "<img class=bird src=haubenmeise.jpg >"
+            ],
+            "guid": "xh0Us8-dtV",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Greenfinch, Grünfink (1).mp3]",
+                "European Greenfinch",
+                " Grünfink",
+                "",
+                "<img class=bird src=grünfink.jpg >"
+            ],
+            "guid": "faaGXHf.9z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Robin, rotkehlchen (2).mp3]",
+                "European Robin ",
+                " Rotkehlchen",
+                "call",
+                "<img class=bird src=grünfink.jpg >"
+            ],
+            "guid": "C,;mFh.pih",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Robin, Rotkehlchen.mp3]",
+                "European Robin ",
+                " Rotkehlchen",
+                "call",
+                "<img class=bird src=rotkehlchen.jpg >"
+            ],
+            "guid": "Gwj0kotBc]",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey Heron, Graureiher.mp3]",
+                "Grey Heron",
+                " Graureiher",
+                "",
+                "<img class=bird src=graureiher.jpg >"
+            ],
+            "guid": "eP:j*71@ah",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Owl, Steinkauz.mp3]",
+                "Little Owl",
+                " Steinkauz",
+                "",
+                "<img class=bird src=steinkauz.jpg >"
+            ],
+            "guid": "oZoyCP2|#9",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Owl, Steinkauz2.mp3]",
+                "Little Owl",
+                " Steinkauz",
+                "",
+                "<img class=bird src=steinkauz.jpg >"
+            ],
+            "guid": "nYE#}FQ0;~",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Raven, Kolkrabe.mp3]",
+                "Northern Raven",
+                " Kolkrabe",
+                "",
+                "<img class=bird src=kolkrabe.jpg >"
+            ],
+            "guid": "QRq11;W,Ry",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tawny Owl, Waldkauz.mp3]",
+                "Tawny Owl",
+                " Waldkauz",
+                "",
+                "<img class=bird src=waldkauz.jpg >"
+            ],
+            "guid": "lx>.@rxGp)",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-headed Gull, Lachmoewe.mp3]",
+                "Black-headed Gull",
+                " Lachmöwe",
+                "",
+                "<img class=\"bird\" src=\"lachmöve.jpg\">"
+            ],
+            "guid": "jXphTELO43",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Blackbird, Amsel (1).mp3]",
+                "Common Blackbird ",
+                " Amsel",
+                "call",
+                "<img class=bird src=amsel.jpg >"
+            ],
+            "guid": "e(EUjmZ]B0",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Merganser ,Gaensesaeger.mp3]",
+                "Common Merganser",
+                " Gänsesäger",
+                "",
+                "<img class=bird src=gänsesäger.jpg >"
+            ],
+            "guid": "D&13AO6c)Z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Siskin, Erlenzeisig.mp3]",
+                "Eurasian Siskin ",
+                " Erlenzeisig",
+                "song",
+                "<img class=bird src=erlenzeisig.jpg >"
+            ],
+            "guid": "yc,^GA}zc",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Tree Sparrow, Feldsperling.mp3]",
+                "Eurasian Tree Sparrow",
+                " Feldsperling",
+                "",
+                "<img class=bird src=feldsperling.jpg >"
+            ],
+            "guid": "ER3]>6c6vr",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Spotted Woodpecker ,Buntspecht.mp3]",
+                "Great Spotted Woodpecker ",
+                " Buntspecht",
+                "call",
+                "<img class=bird src=buntspecht.jpg >"
+            ],
+            "guid": "MLmC%1Av(Z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey Wagtail, Gebirgsstelze.mp3]",
+                "Grey Wagtail",
+                " Gebirgsstelze",
+                "",
+                "<img class=bird src=gebirgsstelze.jpg >"
+            ],
+            "guid": "I]f<K*&EwN",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Mallard,Stockente.mp3]",
+                "Mallard",
+                "Stockente",
+                "",
+                "<img class=bird src=stockente.jpg >"
+            ],
+            "guid": "29hIB>2G3",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Middle Spotted Woodpecker, Mittelspecht.mp3]",
+                "Middle Spotted Woodpecker ",
+                " Mittelspecht",
+                "call",
+                "<img class=bird src=mittelspecht.jpg >"
+            ],
+            "guid": "nX[[hc&rk7",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Coal Tit, Tannenmeise.mp3]",
+                "Coal Tit",
+                " Tannenmeise",
+                "",
+                "<img class=bird src=tannenmeise.jpg >"
+            ],
+            "guid": "P=Ni8Leg}r",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wren, Zaunkönig.mp3]",
+                "Eurasian Wren ",
+                " Zaunkönig",
+                "song",
+                "<img class=bird src=zaunkönig.jpg >"
+            ],
+            "guid": "k]cBf_RHk/",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Crested Tit, Haubenmeise (1).mp3]",
+                "European Crested Tit",
+                " Haubenmeise",
+                "",
+                "<img class=bird src=haubenmeise.jpg >"
+            ],
+            "guid": "iX9G=t~+Ng",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Robin, Rotkehlchen (1).mp3]",
+                "European Robin ",
+                " Rotkehlchen",
+                "song",
+                "<img class=bird src=rotkehlchen.jpg >"
+            ],
+            "guid": "D+xq7!3C4z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Spotted Woodpecker, Buntspecht2.mp3]",
+                "Great Spotted Woodpecker ",
+                " Buntspecht",
+                "call",
+                "<img class=bird src=buntspecht.jpg >"
+            ],
+            "guid": "G]T69EZa=X",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Spotted Woodpecker,Buntspecht.mp3]",
+                "Great Spotted Woodpecker",
+                " Buntspecht",
+                "",
+                "<img class=bird src=buntspecht.jpg >"
+            ],
+            "guid": "wknnke+4,h",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey-headed Woodpecker, Grauspecht (1).mp3]",
+                "Grey-headed Woodpecker ",
+                " Grauspecht",
+                "song",
+                "<img class=bird src=grauspecht.jpg >"
+            ],
+            "guid": "j%Gw{Uz-0Q",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Jackdaw, Dohle.mp3]",
+                "Jackdaw",
+                " Dohle",
+                "",
+                "<img class=bird src=dohle.jpg >"
+            ],
+            "guid": "Q^1_1TPZ&N",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Meadow Pipit , Wiesenpieper.mp3]",
+                "Meadow Pipit ",
+                " Wiesenpieper",
+                "",
+                "<img class=bird src=wiesenpieper.jpg >"
+            ],
+            "guid": "htfld@<+;v",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Short-toed Treecreeper , Gartenbaumlaeufer.mp3]",
+                "Short-toed Treecreeper ",
+                " Gartenbaumläufer",
+                "song",
+                "<img class=bird src=gartenbaumläufer.jpg >"
+            ],
+            "guid": "vXUegH$0Fq",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Canada Goose Kanadagans.mp3]",
+                "Canada Goose",
+                " Kanadagans",
+                "",
+                "<img class=\"bird\" src=\"kanadagans.jpg\">"
+            ],
+            "guid": "uI6x|g#-tR",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Reed Bunting, Rohrammer.mp3]",
+                "Common Reed Bunting ",
+                " Rohrammer",
+                "song",
+                "<img class=bird src=rohrammer.jpg >"
+            ],
+            "guid": "d9..sEGanP",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Dunnock, Heckenbraunelle (1).mp3]",
+                "Dunnock ",
+                " Heckenbraunelle",
+                "song",
+                "<img class=bird src=heckenbraunelle.jpg >"
+            ],
+            "guid": "CX=0Vqp_S~",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Greylag Goose,Graugans.mp3]",
+                "Greylag Goose",
+                "Graugans",
+                "",
+                "<img class=bird src=graugans.jpg >"
+            ],
+            "guid": "rs_t4:S2|?",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Lesser Spotted Woodpecker, Kleinspecht.mp3]",
+                "Lesser Spotted Woodpecker",
+                " Kleinspecht",
+                "",
+                "<img class=bird src=kleinspecht.jpg >"
+            ],
+            "guid": "y2}l}-r1Ea",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Yellowhammer, Goldammer (1).mp3]",
+                "Yellowhammer ",
+                " Goldammer",
+                "call",
+                "<img class=bird src=goldammer.jpg >"
+            ],
+            "guid": "L9p;z8wcbH",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Canada Goose, Kanadagans.mp3]",
+                "Canada Goose",
+                " Kanadagans",
+                "",
+                "<img class=bird src=kanadagans.jpg >"
+            ],
+            "guid": "qla=!HUgBg",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Garden Warbler, Gartengrasmücke.mp3]",
+                "Garden Warbler ",
+                " Gartengrasmücke",
+                "song",
+                "<img class=bird src=gartengrasmücke.jpg >"
+            ],
+            "guid": "j6hY-@0E>t",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Grebe, Zwergtaucher.mp3]",
+                "Little Grebe",
+                " Zwergtaucher",
+                "",
+                "<img class=bird src=zwergtaucher.jpg >"
+            ],
+            "guid": "r=OM7c|GD`",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Flycatcher, Grauschnaepper.mp3]",
+                "Spotted Flycatcher",
+                " Grauschnäpper",
+                "",
+                "<img class=bird src=grauschnäpper.jpg >"
+            ],
+            "guid": "vIZ{P-V0}`",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Western Yellow Wagtail, Schafstelze.mp3]",
+                "Western Yellow Wagtail",
+                " Schafstelze",
+                "",
+                "<img class=bird src=schafstelze.jpg >"
+            ],
+            "guid": "yAVhj%k-e(",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-winged Stilt, Stelzenläufer.mp3]",
+                "Black-winged Stilt",
+                " Stelzenläufer",
+                "",
+                "<img class=\"bird\" src=\"stelzenläufer.jpg\">"
+            ],
+            "guid": "LP)U.<Z{Nf",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Cirl Bunting, Zaunammer.mp3]",
+                "Cirl Bunting ",
+                " Zaunammer",
+                "song",
+                "<img class=bird src=zaunammer.jpg >"
+            ],
+            "guid": "Nz4WrT.qx&",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Kestrel, Turmfalke.mp3]",
+                "Common Kestrel",
+                " Turmfalke",
+                "",
+                "<img class=bird src=turmfalke.jpg >"
+            ],
+            "guid": "IvsSnUY`aU",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redshank, Rotschenkel.mp3]",
+                "Common Redshank",
+                " Rotschenkel",
+                "",
+                "<img class=bird src=rotschenkel.jpg >"
+            ],
+            "guid": "yJ6VI$Oi6l",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Bee-eater, Bienenfresser.mp3]",
+                "European Bee-eater",
+                " Bienenfresser",
+                "",
+                "<img class=bird src=bienenfresser.jpg >"
+            ],
+            "guid": "opaUx8v[hK",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Green Sandpiper, Waldwasserläufer2.mp3]",
+                "Green Sandpiper",
+                " Waldwasserläufer",
+                "",
+                "<img class=bird src=waldwasserläufer.jpg >"
+            ],
+            "guid": "tU75y^2H#G",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Monk Parakeet, Mönchssittich.mp3]",
+                "Monk Parakeet",
+                " Mönchssittich",
+                "",
+                "<img class=bird src=mönchsittich.jpg >"
+            ],
+            "guid": "wC#^KQfu,N",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:River Warbler, Schlagschwirl.mp3]",
+                "River Warbler",
+                " Schlagschwirl",
+                "",
+                "<img class=bird src=schlagschwirl.jpg >"
+            ],
+            "guid": "j!1G`w?D>J",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Water Rail, Wasserralle.mp3]",
+                "Water Rail",
+                " Wasserralle",
+                "",
+                "<img class=bird src=wasserralle.jpg >"
+            ],
+            "guid": "CH*LMo(.!M",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Boreal Owl, Raufußkauz.mp3]",
+                "Boreal Owl",
+                " Raufußkauz",
+                "",
+                "<img class=bird src=raufußkauz.jpg >"
+            ],
+            "guid": "oZyFG*`dNq",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Blue Tit , Blaumeise.mp3]",
+                "Eurasian Blue Tit ",
+                " Blaumeise",
+                "",
+                "<img class=bird src=blaumeise.jpg >"
+            ],
+            "guid": "F;-=mv#/dC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Marsh Tit, Sumpfmeise (1).mp3]",
+                "Marsh Tit",
+                " Sumpfmeise",
+                "",
+                "<img class=bird src=sumpfmeise.jpg >"
+            ],
+            "guid": "c<7~$qF5cW",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tawny Owl, Waldkauz (1).mp3]",
+                "Tawny Owl",
+                " Waldkauz",
+                "",
+                "<img class=bird src=waldkauz.jpg >"
+            ],
+            "guid": "HJsy5|CyWH",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Bluethroat, Blaukehlchen.mp3]",
+                "Bluethroat ",
+                " Blaukehlchen",
+                "song",
+                "<img class=\"bird\" src=\"blaukehlchen.jpg\">"
+            ],
+            "guid": "yxg6-0ad?S",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Dunnock, Heckenbraunelle (2).mp3]",
+                "Dunnock ",
+                " Heckenbraunelle",
+                "song",
+                "<img class=bird src=heckenbraunelle.jpg >"
+            ],
+            "guid": "jA^DwVh+X>",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Jay, Eichelhaeher.mp3]",
+                "Eurasian Jay",
+                " Eichelhäher",
+                "",
+                "<img class=bird src=eichelhäher.jpg >"
+            ],
+            "guid": "nexJ^DW,zX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Nuthatch, Kleiber (1).mp3]",
+                "Eurasian Nuthatch",
+                " Kleiber",
+                "",
+                "<img class=bird src=kleiber.jpg >"
+            ],
+            "guid": "C-bm^fNnN.",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Goldfinch, Stieglitz (1).mp3]",
+                "European Goldfinch",
+                " Stieglitz",
+                "",
+                "<img class=bird src=stieglitz.jpg >"
+            ],
+            "guid": "A]Csxbh.J3",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Mandarin Duck, Mandarinente.mp3]",
+                "Mandarin Duck",
+                " Mandarinente",
+                "",
+                "<img class=bird src=mandarinente.jpg >"
+            ],
+            "guid": "h=_x=/*((w",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-necked Grebe, Rothalstaucher.mp3]",
+                "Red-necked Grebe",
+                " Rothalstaucher",
+                "",
+                "<img class=bird src=rothalstaucher.jpg >"
+            ],
+            "guid": "m5z5hBi*wD",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-necked Grebe, Schwarzhalstaucher (1).mp3]",
+                "Black-necked Grebe",
+                " Schwarzhalstaucher",
+                "",
+                "<img class=\"bird\" src=\"schwarzhalstaucher.jpg\">"
+            ],
+            "guid": "t>NQ%_hv2/",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redstart, Gartenrotschwanz (1).mp3]",
+                "Common Redstart ",
+                " Gartenrotschwanz",
+                "song",
+                "<img class=bird src=gartenrotschwanz.jpg >"
+            ],
+            "guid": "b[`.U<N?tU",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Reed Bunting, Rohrammer (1).mp3]",
+                "Common Reed Bunting ",
+                " Rohrammer",
+                "song",
+                "<img class=bird src=rohrammer.jpg >"
+            ],
+            "guid": "P;7=Bo|9u@",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wryneck, Wendehals.mp3]",
+                "Eurasian Wryneck",
+                " Wendehals",
+                "",
+                "<img class=bird src=wendehals.jpg >"
+            ],
+            "guid": "yOMQ~}oy3?",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Greenfinch, Grünfink (3).mp3]",
+                "European Greenfinch",
+                " Grünfink",
+                "",
+                "<img class=bird src=grünfink.jpg >"
+            ],
+            "guid": "I%]pM14^r!",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Turtle Dove, Turteltaube (1).mp3]",
+                "European Turtle Dove",
+                " Turteltaube",
+                "",
+                "<img class=bird src=turteltaube.jpg >"
+            ],
+            "guid": "fDbxRpe_/s",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tree Pipit, Baumpieper.mp3]",
+                "Tree Pipit",
+                " Baumpieper",
+                "",
+                "<img class=bird src=baumpieper.jpg >"
+            ],
+            "guid": "tl}=6`>,o.",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Woodlark, Heidelerche.mp3]",
+                "Woodlark ",
+                " Heidelerche",
+                "call",
+                "<img class=bird src=heidelerche.jpg >"
+            ],
+            "guid": "v$qGVBo$uP",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-legged Kittiwake, Dreizehenmöwe.mp3]",
+                "Black-legged Kittiwake",
+                " Dreizehenmöwe",
+                "",
+                "<img class=\"bird\" src=\"dreizehenmöwe.jpg\">"
+            ],
+            "guid": "O|^XI$d}Ch",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Rosefinch, Karmingimpel.mp3]",
+                "Common Rosefinch ",
+                " Karmingimpel",
+                "song",
+                "<img class=bird src=karmingimpel.jpg >"
+            ],
+            "guid": "vT)b]TtR!h",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Treecreeper, Waldbaumläufer.mp3]",
+                "Eurasian Treecreeper ",
+                " Waldbaumläufer",
+                "song",
+                "<img class=bird src=waldbaumläufer.jpg >"
+            ],
+            "guid": "zAgK(^o;Bf",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Nightjar, Ziegenmelker.mp3]",
+                "European Nightjar ",
+                " Ziegenmelker",
+                "song",
+                "<img class=bird src=ziegenmelker.jpg >"
+            ],
+            "guid": "N/10VN8r3l",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:House Sparrow, Haussperling.mp3]",
+                "House Sparrow",
+                " Haussperling",
+                "",
+                "<img class=bird src=haussperling.jpg >"
+            ],
+            "guid": "iBPF{tZ:|%",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Icterine Warbler, Gelbspötter.mp3]",
+                "Icterine Warbler",
+                " Gelbspötter",
+                "",
+                "<img class=bird src=gelbspötter.jpg >"
+            ],
+            "guid": "MxEo8FD>-u",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Gannet, Basstölpel.mp3]",
+                "Northern Gannet",
+                " Basstölpel",
+                "",
+                "<img class=bird src=basstölpel.jpg >"
+            ],
+            "guid": "rh%;RNXJws",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red Crossbill, Fichtenkreuzschnabel.mp3]",
+                "Red Crossbill",
+                " Fichtenkreuzschnabel",
+                "",
+                "<img class=bird src=fichtenkreuzschnabel.jpg >"
+            ],
+            "guid": "F=GvfJ*,:W",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Alpine Accentor, Alpenbraunelle.mp3]",
+                "Alpine Accentor",
+                " Alpenbraunelle",
+                "",
+                "<img class=\"bird\" src=\"alpenbraunelle.jpg\">"
+            ],
+            "guid": "q+34=-ZC%V",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Linnet, Bluthänfling.mp3]",
+                "Common Linnet",
+                " Bluthänfling",
+                "",
+                "<img class=bird src=bluthänfling.jpg >"
+            ],
+            "guid": "IPv@Um}kAm",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redstart, Gartenrotschwanz.mp3]",
+                "Common Redstart ",
+                " Gartenrotschwanz",
+                "call",
+                "<img class=bird src=gartenrotschwanz.jpg >"
+            ],
+            "guid": "El$UV*i,pw",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Ringed Plover, Sandregenpfeifer - Charadrius hiaticula.mp3]",
+                "Common Ringed Plover",
+                " Sandregenpfeifer",
+                "",
+                "<img class=bird src=sandregenpfeifer.jpg >"
+            ],
+            "guid": "o_]nMJGmT)",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Oystercatcher, Austernfischer (1).mp3]",
+                "Eurasian Oystercatcher",
+                " Austernfischer",
+                "",
+                "<img class=bird src=austernfischer.jpg >"
+            ],
+            "guid": "gZ=k8t}%3-",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Herring Gull, Silbermöwe.mp3]",
+                "European Herring Gull",
+                " Silbermöwe",
+                "",
+                "<img class=bird src=silbermöwe.jpg >"
+            ],
+            "guid": "G1?Ykb]Cv$",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Lesser Redpoll, Alpenbirkenzeisig.mp3]",
+                "Lesser Redpoll",
+                " Alpenbirkenzeisig",
+                "",
+                "<img class=bird src=alpenbirkenzeisig.jpg >"
+            ],
+            "guid": "GdnaC]{-Au",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Nutcracker, Tannenhäher.mp3]",
+                "Spotted Nutcracker",
+                " Tannenhäher",
+                "",
+                "<img class=bird src=tannenhäher.jpg >"
+            ],
+            "guid": "s$4!WpdxUj",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Nutcracker,Tannenhäher.mp3]",
+                "Spotted Nutcracker",
+                "Tannenhäher",
+                "",
+                "<img class=bird src=tannenhäher.jpg >"
+            ],
+            "guid": "Nsm<0/][l0",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Western Bonelli's Warbler, Berglaubsänger.mp3]",
+                "Western Bonelli's Warbler ",
+                " Berglaubsänger",
+                "song",
+                "<img class=bird src=berglaubsänger.jpg >"
+            ],
+            "guid": "br^`Ce_~Mz",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:White Wagtail, Bachstelze.mp3]",
+                "White Wagtail",
+                " Bachstelze",
+                "",
+                "<img class=bird src=bachstelze.jpg >"
+            ],
+            "guid": "x(-1S8:>=$",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Willow Tit, Weidenmeise.mp3]",
+                "Willow Tit",
+                " Weidenmeise",
+                "",
+                "<img class=bird src=weidenmeise.jpg >"
+            ],
+            "guid": "B/BSc|WiQ+",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Greenshank, Grünschenkel-f4d75289bd755d2ab05e02983c60c4480d4fc2d0.mp3]",
+                "Common Greenshank",
+                " Grünschenkel",
+                "",
+                "<img class=bird src=grünschenkel.jpg >"
+            ],
+            "guid": "d+9Ppz}IUp",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Snipe, Bekassine.mp3]",
+                "Common Snipe",
+                " Bekassine",
+                "",
+                "<img class=bird src=bekassine.jpg >"
+            ],
+            "guid": "F&u?]fK@#+",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Dunlin, Alpenstrandläufer.mp3]",
+                "Dunlin",
+                " Alpenstrandläufer",
+                "",
+                "<img class=bird src=alpenstrandläufer.jpg >"
+            ],
+            "guid": "xKn?Tt!%9]",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Redshank, Dunkler Wasserläufer.mp3]",
+                "Spotted Redshank",
+                " Dunkler Wasserläufer",
+                "",
+                "<img class=bird src=dunkler_wasserläufer.jpg >"
+            ],
+            "guid": "v?_xq=gd$z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Western Barn Owl, Schleiereule.mp3]",
+                "Western Barn Owl",
+                " Schleiereule",
+                "",
+                "<img class=bird src=schleiereule.jpg >"
+            ],
+            "guid": "p<-Ny&yA~9",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Blue Rock Thrush, Blaumerle.mp3]",
+                "Blue Rock Thrush",
+                " Blaumerle",
+                "",
+                "<img class=\"bird\" src=\"blaumerle.jpg\">"
+            ],
+            "guid": "nJ9X%-Y9hx",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Hoopoe, Wiedehopf.mp3]",
+                "Eurasian Hoopoe ",
+                " Wiedehopf",
+                "song",
+                "<img class=bird src=wiedehopf.jpg >"
+            ],
+            "guid": "N0Lc23XzAI",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Goldfinch , Stieglitz.mp3]",
+                "European Goldfinch ",
+                " Stieglitz",
+                "",
+                "<img class=bird src=stieglitz.jpg >"
+            ],
+            "guid": "N]*dB-DQcv",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Reed Warbler, Drosselrohrsänger.mp3]",
+                "Great Reed Warbler ",
+                " Drosselrohrsänger",
+                "song",
+                "<img class=bird src=drosselrohrsänger.jpg >"
+            ],
+            "guid": "PJ7;_?Uvr2",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Rock Bunting, Zippammer.mp3]",
+                "Rock Bunting ",
+                " Zippammer",
+                "song",
+                "<img class=bird src=zippammer.jpg >"
+            ],
+            "guid": "rg)PW3P$=!",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sardinian Warbler, Samtkopf-Grasmücke.mp3]",
+                "Sardinian Warbler",
+                " Samtkopf-Grasmücke",
+                "",
+                "<img class=bird src=samtkopf-grasmücke.jpg >"
+            ],
+            "guid": "xCkc0Y;@FN",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Zitting Cisticola, Zistensänger.mp3]",
+                "Zitting Cisticola",
+                " Zistensänger",
+                "",
+                "<img class=bird src=zistensänger.jpg >"
+            ],
+            "guid": "GXe1ev|w<=",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-tailed Godwit, Uferschnepfe.mp3]",
+                "Black-tailed Godwit",
+                " Uferschnepfe",
+                "",
+                "<img class=\"bird\" src=\"uferschnepfe.jpg\">"
+            ],
+            "guid": "r}c2Z&-#)k",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Collared Flycatcher, Halsbandschnäpper.mp3]",
+                "Collared Flycatcher ",
+                " Halsbandschnäpper",
+                "song",
+                "<img class=\"bird\" src=\"halsbandschnäpper.jpg\">"
+            ],
+            "guid": "yq`Ps8.qX;",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Crake, Tüpfelsumpfhuhn.mp3]",
+                "Spotted Crake",
+                " Tüpfelsumpfhuhn",
+                "",
+                "<img class=bird src=tüpfelsumpfhuhn.jpg >"
+            ],
+            "guid": "Cq%zG4LHch",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Flycatcher, Grauschnäpper.mp3]",
+                "Spotted Flycatcher",
+                " Grauschnäpper",
+                "",
+                "<img class=bird src=grauschnäpper.jpg >"
+            ],
+            "guid": "PA[/#lMe*x",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Moorhen, Teichhuhn.mp3]",
+                "Common Moorhen",
+                " Teichhuhn",
+                "",
+                "<img class=bird src=teichhuhn.jpg >"
+            ],
+            "guid": "wuK3R=y*Qd",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Nightingale, Nachtigall-79499a2b325e84fca5bbf11aa7354d50ec520e38.mp3]",
+                "Common Nightingale ",
+                " Nachtigall",
+                "call",
+                "<img class=bird src=nachtigall.jpg >"
+            ],
+            "guid": "tp){8cS)WC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Whitethroat, Dorngrasmücke.mp3]",
+                "Common Whitethroat ",
+                " Dorngrasmücke",
+                "call",
+                "<img class=bird src=dorngrasmücke.jpg >"
+            ],
+            "guid": "v@`nsMf?RI",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Corn Crake, Wachtelkönig.mp3]",
+                "Corn Crake",
+                " Wachtelkönig",
+                "",
+                "<img class=bird src=wachtelkönig.jpg >"
+            ],
+            "guid": "j/qrGo*~3@",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Bittern, Zwergdommel.mp3]",
+                "Little Bittern",
+                " Zwergdommel",
+                "",
+                "<img class=bird src=zwergdommel.jpg >"
+            ],
+            "guid": "hsK$H%w;aC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Long-tailed Tit, Schwanzmeise.mp3]",
+                "Long-tailed Tit",
+                " Schwanzmeise",
+                "",
+                "<img class=bird src=schwanzmeise.jpg >"
+            ],
+            "guid": "Gx9G[-(qTZ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Ortolan Bunting, Ortolan.mp3]",
+                "Ortolan Bunting ",
+                " Ortolan",
+                "song",
+                "<img class=bird src=ortolan.jpg >"
+            ],
+            "guid": "EzHI:_h_fu",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Ortolan Bunting,Ortolan.mp3]",
+                "Ortolan Bunting ",
+                " Ortolan",
+                "call",
+                "<img class=bird src=ortolan.jpg >"
+            ],
+            "guid": "e_|jzq_nw]",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Greenshank, Grünschenkel-3a10c76ac74332f0027d7d387a9836d9c5d7570a.mp3]",
+                "Common Greenshank",
+                " Grünschenkel",
+                "",
+                "<img class=bird src=grünschenkel.jpg >"
+            ],
+            "guid": "B,OUk{FehC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Kingfisher, Eisvogel.mp3]",
+                "Common Kingfisher",
+                " Eisvogel",
+                "",
+                "<img class=bird src=eisvogel.jpg >"
+            ],
+            "guid": "mM2NJ_bOvp",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redshank, Rotschenkel-97741931c48892876871bc7c8db3902dda2883c0.mp3]",
+                "Common Redshank",
+                " Rotschenkel",
+                "",
+                "<img class=bird src=rotschenkel.jpg >"
+            ],
+            "guid": "he[%G[<@W&",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Sandpiper, Flussuferläufer.mp3]",
+                "Common Sandpiper",
+                " Flussuferläufer",
+                "",
+                "<img class=bird src=flussuferläufer.jpg >"
+            ],
+            "guid": "AKsK}!^jnJ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Curlew, Großer Brachvogel.mp3]",
+                "Eurasian Curlew",
+                " Großer Brachvogel",
+                "",
+                "<img class=bird src=großer_brachvogel.jpg >"
+            ],
+            "guid": "P]#yuLP|9Q",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Goshawk, Habicht.mp3]",
+                "Northern Goshawk",
+                " Habicht",
+                "",
+                "<img class=bird src=habicht.jpg >"
+            ],
+            "guid": "oOvsj:PFAh",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red Crossbill, Fichtenkreuzschnabel-3d440a25a945e586922c102fe2dd24e1cac198b6.mp3]",
+                "Red Crossbill",
+                " Fichtenkreuzschnabel",
+                "",
+                "<img class=bird src=fichtenkreuzschnabel.jpg >"
+            ],
+            "guid": "Gg-5;f2GsX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Spotted Redshank, Dunkler Wasserläufer-7ab6f6035de60ec207bbd70006d9567c7579b02c.mp3]",
+                "Spotted Redshank",
+                " Dunkler Wasserläufer",
+                "",
+                "<img class=bird src=dunkler_wasserläufer.jpg >"
+            ],
+            "guid": "Oj8;]:^y!^",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tawny Owl, Waldkauz-0a5a61cb3b4978a27395b5ede99e8c4b0649602f.mp3]",
+                "Tawny Owl",
+                " Waldkauz",
+                "",
+                "<img class=bird src=waldkauz.jpg >"
+            ],
+            "guid": "JjV;;Ghk^y",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Coal Tit, Tannenmeise-3504a3b6963e5a8cbc513fa77e2d2a42e321d7c9.mp3]",
+                "Coal Tit",
+                " Tannenmeise",
+                "",
+                "<img class=bird src=tannenmeise.jpg >"
+            ],
+            "guid": "F^}a@/@5B0",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Chaffinch, Buchfink.mp3]",
+                "Common Chaffinch ",
+                " Buchfink",
+                "call",
+                "<img class=bird src=buchfink.jpg >"
+            ],
+            "guid": "f)Cep0HGAN",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Merganser, Gänsesäger.mp3]",
+                "Common Merganser",
+                " Gänsesäger",
+                "",
+                "<img class=bird src=gänsesäger.jpg >"
+            ],
+            "guid": "eG;(H?g;QS",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Starling, Star-85c519e6746de9bc6f28efe0d8bdfe89d3cd1694.mp3]",
+                "Common Starling",
+                " Star",
+                "",
+                "<img class=bird src=star.jpg >"
+            ],
+            "guid": "hnRm$RUl+1",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey Partridge, Rebhuhn.mp3]",
+                "Grey Partridge",
+                " Rebhuhn",
+                "",
+                "<img class=bird src=rebhuhn.jpg >"
+            ],
+            "guid": "hRfRZULUX|",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Yellowhammer, Goldammer-636394ebe52f0619ce86a5fecaa13f4ed0933ebe.mp3]",
+                "Yellowhammer",
+                " Goldammer",
+                "",
+                "<img class=bird src=goldammer.jpg >"
+            ],
+            "guid": "d>DY-x$o!h",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Kite, Schwarzmilan.mp3]",
+                "Black Kite",
+                " Schwarzmilan",
+                "",
+                "<img class=\"bird\" src=\"schwarzmilan.jpg\">"
+            ],
+            "guid": "B{UE$.K)86",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Redwing, Rotdrossel.mp3]",
+                "Redwing ",
+                " Rotdrossel",
+                "song",
+                "<img class=bird src=rotdrossel.jpg >"
+            ],
+            "guid": "Mz[VI}NK;j",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Grasshopper Warbler, Feldschwirl-e8dc74ce2d0e42c0064ae519ceaa4406fccdcbcb.mp3]",
+                "Common Grasshopper Warbler ",
+                " Feldschwirl",
+                "song",
+                "<img class=bird src=feldschwirl.jpg >"
+            ],
+            "guid": "o6IjkFnsa,",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Quail, Wachtel.mp3]",
+                "Common Quail ",
+                " Wachtel",
+                "song",
+                "<img class=bird src=wachtel.jpg >"
+            ],
+            "guid": "w4eFT&$`mD",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Siskin - call, Erlenzeisig.mp3]",
+                "Eurasian Siskin ",
+                " Erlenzeisig",
+                "call",
+                "<img class=bird src=erlenzeisig.jpg >"
+            ],
+            "guid": "jyj(9e)ESJ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Greenfinch, Grünfink-e86e85a4603fa325c31c94f6aa33669f067a501e.mp3]",
+                "European Greenfinch",
+                " Grünfink",
+                "",
+                "<img class=bird src=grünfink >"
+            ],
+            "guid": "z82$1to3kF",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Crested Grebe, Haubentaucher.mp3]",
+                "Great Crested Grebe",
+                " Haubentaucher",
+                "",
+                "<img class=bird src=haubentaucher.jpg >"
+            ],
+            "guid": "xr|-XFMSO2",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Greenish Warbler - call, Grünlaubsänger.mp3]",
+                "Greenish Warbler ",
+                " Grünlaubsänger",
+                "call",
+                "<img class=bird src=grünlaubsänger.jpg >"
+            ],
+            "guid": "kx@C_}]+e#",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Greenish Warbler - song, Grünlaubsänger.mp3]",
+                "Greenish Warbler ",
+                " Grünlaubsänger",
+                "song",
+                "<img class=bird src=grünlaubsänger.jpg >"
+            ],
+            "guid": "LNiIdCFLmE",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey Partridge,  Rebhuhn.mp3]",
+                "Grey Partridge",
+                " Rebhuhn",
+                "",
+                "<img class=bird src=rebhuhn.jpg >"
+            ],
+            "guid": "xzPUn(f_K&",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Hawfinch, Kernbeißer.mp3]",
+                "Hawfinch",
+                " Kernbeißer",
+                "",
+                "<img class=bird src=kernbeißer.jpg >"
+            ],
+            "guid": "G^^AD$}77N",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Crake, Kleines Sumpfhuhn.mp3]",
+                "Little Crake ",
+                " Kleines Sumpfhuhn",
+                "song",
+                "<img class=bird src=kleines_sumpfhuhn.jpg >"
+            ],
+            "guid": "CHUQH|,vzc",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sand Martin, Uferschwalbe.mp3]",
+                "Sand Martin",
+                " Uferschwalbe",
+                "",
+                "<img class=bird src=uferschwalbe.jpg >"
+            ],
+            "guid": "h-waR~)KV]",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tree Pipit, Baumpieper - Anthus trivialis.mp3]",
+                "Tree Pipit",
+                " Baumpieper",
+                "",
+                "<img class=bird src=baumpieper.jpg >"
+            ],
+            "guid": "w{WUgE~=pL",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Water Rail - flight call, Wasserralle.mp3]",
+                "Water Rail ",
+                " Wasserralle",
+                "flight call",
+                "<img class=bird src=wasserralle.jpg >"
+            ],
+            "guid": "M;hF=yV>/+",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common House Martin, Mehlschwalbe.mp3]",
+                "Common House Martin",
+                " Mehlschwalbe",
+                "",
+                "<img class=bird src=mehlschwalbe.jpg >"
+            ],
+            "guid": "A81A=/XYh8",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Redstart - call, Gartenrotschwanz.mp3]",
+                "Common Redstart ",
+                " Gartenrotschwanz",
+                "call",
+                "<img class=bird src=gartenrotschwanz.jpg >"
+            ],
+            "guid": "x!I5GAPjn~",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Nightjar - call, Ziegenmelker.mp3]",
+                "European Nightjar ",
+                " Ziegenmelker",
+                "call",
+                "<img class=bird src=ziegenmelker.jpg >"
+            ],
+            "guid": "g%b$xDbEi{",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-billed Chough, Alpenkrähe.mp3]",
+                "Red-billed Chough",
+                " Alpenkrähe",
+                "",
+                "<img class=bird src=alpenkrähe.jpg >"
+            ],
+            "guid": "zBOQ#)4,|D",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Rock Bunting, Zippammer-d41a6f2812b113a68dde320bd53509814f2afc93.mp3]",
+                "Rock Bunting ",
+                " Zippammer",
+                "song",
+                "<img class=bird src=zippammer.jpg >"
+            ],
+            "guid": "k8*z8mR]b|",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Subalpine Warbler - song, Weißbart-Grasmücke.mp3]",
+                "Subalpine Warbler ",
+                " Weißbartgrasmücke",
+                "song",
+                "<img class=bird src=weißbartgrasmücke.jpg >"
+            ],
+            "guid": "w!#cN8Mb<S",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Tawny Pipit, Brachpieper.mp3]",
+                "Tawny Pipit",
+                " Brachpieper",
+                "",
+                "<img class=bird src=brachpieper.jpg >"
+            ],
+            "guid": "o>|Udu6v*V",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Firecrest - song, Sommergoldhähnchen.mp3]",
+                "Common Firecrest ",
+                " Sommergoldhähnchen",
+                "song",
+                "<img class=bird src=sommergoldhähnchen.jpg >"
+            ],
+            "guid": "tg+bCqf`^w",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Starling, Star-db343670e2ee574da06332b523a57641a1c6f5a1.mp3]",
+                "Common Starling",
+                " Star",
+                "",
+                "<img class=bird src=star.jpg >"
+            ],
+            "guid": "NUt2FW|aBJ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Nuthatch, Kleiber2.mp3]",
+                "Eurasian Nuthatch",
+                " Kleiber",
+                "",
+                "<img class=bird src=kleiber.jpg >"
+            ],
+            "guid": "Qhi,Dt:)Ls",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Nuthatch, Kleiber3.mp3]",
+                "Eurasian Nuthatch",
+                " Kleiber",
+                "",
+                "<img class=bird src=kleiber.jpg >"
+            ],
+            "guid": "G*PafcK!{_",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Nuthatch, Kleiber4.mp3]",
+                "Eurasian Nuthatch",
+                " Kleiber",
+                "",
+                "<img class=bird src=kleiber.jpg >"
+            ],
+            "guid": "J*~sz$*x{3",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Treecreeper, Waldbaumläufer-fb69e917d299ed0927ca4c313fdbf85c7faa27de.mp3]",
+                "Eurasian Treecreeper ",
+                " Waldbaumläufer",
+                "song",
+                "<img class=bird src=waldbaumläufer.jpg >"
+            ],
+            "guid": "HpJTpio5Km",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Fieldfare, Wacholderdrossel.mp3]",
+                "Fieldfare",
+                " Wacholderdrossel",
+                "",
+                "<img class=bird src=wacholderdrossel.jpg >"
+            ],
+            "guid": "g!;-n>MgtM",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Goldcrest - call, Wintergoldhähnchen.mp3]",
+                "Goldcrest ",
+                " Wintergoldhähnchen",
+                "call",
+                "<img class=bird src=wintergoldhähnchen.jpg >"
+            ],
+            "guid": "O]zf]uuW;H",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Goldcrest, Wintergoldhähnchen-b7156650f6498bc7ce7a675db72f5ce28147703f.mp3]",
+                "Goldcrest ",
+                " Wintergoldhähnchen",
+                "song",
+                "<img class=bird src=wintergoldhähnchen.jpg >"
+            ],
+            "guid": "dCXE5vZs8s",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Ring Ouzel, Ringdrossel.mp3]",
+                "Ring Ouzel ",
+                " Ringdrossel",
+                "song",
+                "<img class=bird src=ringdrossel.jpg >"
+            ],
+            "guid": "J8oJWU({]H",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sardinian Warbler, Samtkopf-Grasmücke-e4e18dfd77c60dd189c4a2add4b95a141e97f02b.mp3]",
+                "Sardinian Warbler",
+                " Samtkopf-Grasmücke",
+                "",
+                "<img class=bird src=samtkopf-grasmücke.jpg >"
+            ],
+            "guid": "w%nPKY[PG/",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Pheasant, Jagdfasan.mp3]",
+                "Common Pheasant",
+                " Jagdfasan",
+                "",
+                "<img class=bird src=jagdfasan.jpg >"
+            ],
+            "guid": "zL6h][uq&(",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Collared Dove, Türkentaube.mp3]",
+                "Eurasian Collared Dove",
+                " Türkentaube",
+                "",
+                "<img class=bird src=türkentaube.jpg >"
+            ],
+            "guid": "i%QGh#B[ap",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Stonechat, Schwarzkehlchen.mp3]",
+                "European Stonechat ",
+                " Schwarzkehlchen",
+                "song",
+                "<img class=bird src=schwarzkehlchen.jpg >"
+            ],
+            "guid": "c2bSTnT-M#",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Melodious Warbler, Orpheusspötter.mp3]",
+                "Melodious Warbler ",
+                " Orpheusspötter",
+                "song",
+                "<img class=bird src=orpheusspötter.jpg >"
+            ],
+            "guid": "O@63-or7_,",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Stock Dove, Hohltaube.mp3]",
+                "Stock Dove",
+                " Hohltaube",
+                "",
+                "<img class=bird src=hohltaube.jpg >"
+            ],
+            "guid": "wp]Sj6sn_",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Bearded Reedling, Bartmeise.mp3]",
+                "Bearded Reedling",
+                " Bartmeise",
+                "",
+                "<img class=\"bird\" src=\"bartmeise.jpg\">"
+            ],
+            "guid": "NeSEtH{6$6",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black-headed Gull, Lachmöwe.mp3]",
+                "Black-headed Gull",
+                " Lachmöwe",
+                "",
+                "<img class=bird src=lachmöve.jpg >"
+            ],
+            "guid": "owG(TV[e^d",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Cormorant, Kormoran.mp3]",
+                "Great Cormorant",
+                " Kormoran",
+                "",
+                "<img class=bird src=kormoran.jpg >"
+            ],
+            "guid": "l>UfkF=id3",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Green Sandpiper, Waldwasserläufer-eb30efab017f873765cb504e51acc7b2a6af4dd6.mp3]",
+                "Green Sandpiper",
+                " Waldwasserläufer",
+                "",
+                "<img class=bird src=waldwasserläufer.jpg >"
+            ],
+            "guid": "vh+xf)+sM-",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red Kite, Rotmilan.mp3]",
+                "Red Kite",
+                " Rotmilan",
+                "",
+                "<img class=bird src=rotmilan.jpg >"
+            ],
+            "guid": "lnH,/$t-;#",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Whimbrel, Regenbrachvogel.mp3]",
+                "Whimbrel",
+                " Regenbrachvogel",
+                "",
+                "<img class=bird src=regenbrachvogel.jpg >"
+            ],
+            "guid": "y^VM[m.,1/",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:White Wagtail, Bachstelze-49b9b2a174e5b6bc5a793044512cbd61d76a21d0.mp3]",
+                "White Wagtail",
+                " Bachstelze",
+                "",
+                "<img class=bird src=bachstelze.jpg >"
+            ],
+            "guid": "gpV=p;-*b]",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:White-tailed Eagle, Seeadler.mp3]",
+                "White-tailed Eagle",
+                " Seeadler",
+                "",
+                "<img class=bird src=seeadler.jpg >"
+            ],
+            "guid": "cVruAP]2v-",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Wood Sandpiper, Bruchwasserläufer.mp3]",
+                "Wood Sandpiper",
+                " Bruchwasserläufer",
+                "",
+                "<img class=bird src=bruchwasserläufer.jpg >"
+            ],
+            "guid": "MJI1X}!`(H",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Tern, Trauerseeschwalbe.mp3]",
+                "Black Tern",
+                " Trauerseeschwalbe",
+                "",
+                "<img class=\"bird\" src=\"trauerseeschwalbe.jpg\">"
+            ],
+            "guid": "o~B@j6R^T*",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Brambling, Bergfink.mp3]",
+                "Brambling",
+                " Bergfink",
+                "",
+                "<img class=bird src=bergfink.jpg >"
+            ],
+            "guid": "mue{r.@g81",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Caspian Tern, Raubseeschwalbe.mp3]",
+                "Caspian Tern",
+                " Raubseeschwalbe",
+                "",
+                "<img class=bird src=raubseeschwalbe.jpg >"
+            ],
+            "guid": "g5o.0!0-Cf",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Coal Tit, Tannenmeise-a194a960c0075161300c295095e148eece848f8f.mp3]",
+                "Coal Tit",
+                " Tannenmeise",
+                "",
+                "<img class=bird src=tannenmeise.jpg >"
+            ],
+            "guid": "yIgO*qy.YN",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Bittern - flight call, Rohrdommel.mp3]",
+                "Eurasian Bittern ",
+                " Rohrdommel",
+                "flight call",
+                "<img class=bird src=rohrdommel.jpg >"
+            ],
+            "guid": "sNYR}bKY&(",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Skylark, Feldlerche.mp3]",
+                "Eurasian Skylark",
+                " Feldlerche",
+                "",
+                "<img class=bird src=feldlerche.jpg >"
+            ],
+            "guid": "vVQf6v06U>",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Great Egret, Silberreiher.mp3]",
+                "Great Egret",
+                " Silberreiher",
+                "",
+                "<img class=bird src=silberreiher.jpg >"
+            ],
+            "guid": "g6pY<r#*R7",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey Plover, Kiebitzregenpfeifer.mp3]",
+                "Grey Plover",
+                " Kiebitzregenpfeifer",
+                "",
+                "<img class=bird src=kiebitzregenpfeifer.jpg >"
+            ],
+            "guid": "Pm1H]/:%x~",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Grebe - flight call, Zwergtaucher.mp3]",
+                "Little Grebe ",
+                " Zwergtaucher",
+                "flight call",
+                "<img class=bird src=zwergtaucher.jpg >"
+            ],
+            "guid": "kY0.r.QiL$",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Whiskered Tern, Weißbart-Seeschwalbe.mp3]",
+                "Whiskered Tern",
+                " Weißbart-Seeschwalbe",
+                "",
+                "<img class=bird src=weißbart-seeschwalbe.jpg >"
+            ],
+            "guid": "E`A4Z][.v}",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Woodpecker, Schwarzspecht (2).mp3]",
+                "Black Woodpecker",
+                " Schwarzspecht",
+                "",
+                "<img class=\"bird\" src=\"schwarzspecht.jpg\">"
+            ],
+            "guid": "tWwBUu/eg&",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Woodpecker, Schwarzspecht (3).mp3]",
+                "Black Woodpecker",
+                " Schwarzspecht",
+                "",
+                "<img class=bird src=schwarzspecht.jpg >"
+            ],
+            "guid": "gs21<&`w1*",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Woodpecker, Schwarzspecht (4).mp3]",
+                "Black Woodpecker",
+                " Schwarzspecht",
+                "",
+                "<img class=bird src=schwarzspecht.jpg >"
+            ],
+            "guid": "AUh[ByL*rg",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Black Woodpecker, Schwarzspecht.mp3]",
+                "Black Woodpecker",
+                " Schwarzspecht",
+                "",
+                "<img class=bird src=schwarzspecht.jpg >"
+            ],
+            "guid": "Jl/<5N`!b`",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Jay, Eichelhäher.mp3]",
+                "Eurasian Jay",
+                " Eichelhäher",
+                "",
+                "<img class=bird src=eichelhäher.jpg >"
+            ],
+            "guid": "H%s({CVsmn",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey-headed Woodpecker, Grauspecht (2).mp3]",
+                "Grey-headed Woodpecker",
+                " Grauspecht",
+                "",
+                "<img class=bird src=grauspecht.jpg >"
+            ],
+            "guid": "b0wGRjTcQA",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Grey-headed Woodpecker, Grauspecht-6c1eccd245980aa20812a6ca5c1610574c78a8b2.mp3]",
+                "Grey-headed Woodpecker",
+                " Grauspecht grauspecht.jpg",
+                "",
+                "<img class=bird src= >"
+            ],
+            "guid": "LM#2}tRACX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Hawfinch, Kernbeißer-3e33eff4256e27ceea96d02dd8eb0f4408f296e3.mp3]",
+                "Hawfinch",
+                " Kernbeißer",
+                "",
+                "<img class=bird src=kernbeißer.jpg >"
+            ],
+            "guid": "dJbc-m-$_!",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Lesser Spotted Woodpecker, Kleinspecht (2).mp3]",
+                "Lesser Spotted Woodpecker",
+                " Kleinspecht",
+                "",
+                "<img class=bird src=kleinspecht.jpg >"
+            ],
+            "guid": "B(`h.T7_SL",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Lesser Spotted Woodpecker, Kleinspecht-0f06ffb9875a3e26685c94dadc1f8b936c31eb9c.mp3]",
+                "Lesser Spotted Woodpecker",
+                " Kleinspecht",
+                "",
+                "<img class=bird src=kleinspecht.jpg >"
+            ],
+            "guid": "L11X*6;5(@",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Long-eared Owl, Waldohreule.mp3]",
+                "Long-eared Owl",
+                " Waldohreule",
+                "",
+                "<img class=bird src=waldohreule.jpg >"
+            ],
+            "guid": "pJH22/if?F",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Middle Spotted Woodpecker, Mittelspecht-172ed80b452932e1064a425376f831387d5b022f.mp3]",
+                "Middle Spotted Woodpecker",
+                " Mittelspecht",
+                "",
+                "<img class=bird src=mittelspecht.jpg >"
+            ],
+            "guid": "eN7]EI6Era",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Mistle Thrush, Misteldrossel.mp3]",
+                "Mistle Thrush ",
+                " Misteldrossel",
+                "song",
+                "<img class=bird src=misteldrossel.jpg >"
+            ],
+            "guid": "j4Ea;;{C=v",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Shoveler, Löffelente.mp3]",
+                "Northern Shoveler",
+                " Löffelente",
+                "",
+                "<img class=bird src=löffelente.jpg >"
+            ],
+            "guid": "Q}dQzEV,kX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sand Martin, Uferschwalbe-b2d0bb5e3c4d72a5bf41ba3826119cd4af98cfca.mp3]",
+                "Sand Martin",
+                " Uferschwalbe",
+                "",
+                "<img class=bird src=uferschwalbe.jpg >"
+            ],
+            "guid": "ftk}:v2@Ok",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Western Jackdaw, Dohle.mp3]",
+                "Western Jackdaw",
+                " Dohle",
+                "",
+                "<img class=bird src=dohle.jpg >"
+            ],
+            "guid": "B6He`~<WlO",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Alexandrine Parakeet, Großer Alexandersittich.mp3]",
+                "Alexandrine Parakeet",
+                " Großer Alexandersittich",
+                "",
+                "<img class=\"bird\" src=\"alexandersittich.jpg\">"
+            ],
+            "guid": "uiJYac0z6x",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Collared Flycatcher, Halsbandschnäpper (2).mp3]",
+                "Collared Flycatcher ",
+                " Halsbandschnäpper",
+                "call",
+                "<img class=\"bird\" src=\"halsbandschnäpper.jpg\">"
+            ],
+            "guid": "bWu+|bO0dn",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Collared Flycatcher, Halsbandschnäpper-ec099e825d977c9ef2ee9b9caf9df5b4677d69c4.mp3]",
+                "Collared Flycatcher ",
+                " Halsbandschnäpper",
+                "song",
+                "<img class=bird src=halsbandschnäpper.jpg >"
+            ],
+            "guid": "xhaKB4a#;9",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Tern, Flussseeschwalbe-2d692a86af399373ec1c0841392935e202fc6487.mp3]",
+                "Common Tern",
+                " Flussseeschwalbe",
+                "",
+                "<img class=bird src=flussseeschwalbe.jpg >"
+            ],
+            "guid": "noWJGBd;RV",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Treecreeper, Waldbaumläufer-b0fa0f4ec2e237440a98015898f85be3596b8c5f.mp3]",
+                "Eurasian Treecreeper",
+                " Waldbaumläufer",
+                "",
+                "<img class=bird src=waldbaumläufer.jpg >"
+            ],
+            "guid": "H^kuZN!y~M",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:European Bee-eater, Bienenfresser-badf8415ede70250208d49ce8d7d88587137840a.mp3]",
+                "European Bee-eater",
+                " Bienenfresser",
+                "",
+                "<img class=bird src=bienenfresser.jpg >"
+            ],
+            "guid": "w&1aCxF|D(",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Long-eared Owl, Waldohreule-f73b269e458340398e48d0c396c0e8fdb19ffa02.mp3]",
+                "Long-eared Owl",
+                " Waldohreule",
+                "",
+                "<img class=bird src=waldohreule.jpg >"
+            ],
+            "guid": "vxa,5df*w:",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Wheatear, Steinschmätzer.mp3]",
+                "Northern Wheatear",
+                " Steinschmätzer",
+                "",
+                "<img class=bird src=steinschmätzer.jpg >"
+            ],
+            "guid": "tb^(5o,G3F",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-breasted Flycatcher, Zwergschnäpper (2).mp3]",
+                "Red-breasted Flycatcher ",
+                " Zwergschnäpper",
+                "call",
+                "<img class=bird src=zwergschnäpper.jpg >"
+            ],
+            "guid": "fj~pykC}GA",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-breasted Flycatcher, Zwergschnäpper.mp3]",
+                "Red-breasted Flycatcher ",
+                " Zwergschnäpper",
+                "song",
+                "<img class=bird src=zwergschnäpper.jpg >"
+            ],
+            "guid": "i5b}9Y%r/E",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Marisken.mp3]",
+                "moustached warbler ",
+                " Mariskensänger",
+                "song",
+                "<img class=bird src=mariskensänger.jpg >"
+            ],
+            "guid": ";>P]{UEsV",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Greater Flamingo, Rosaflamingo.mp3]",
+                "Greater Flamingo",
+                " Rosaflamingo",
+                "",
+                "<img class=bird src=rosaflamingo.jpg >"
+            ],
+            "guid": "O}b8MLkC/=",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Kentish Plover, Seeregenpfeifer.mp3]",
+                "Kentish Plover ",
+                " Seeregenpfeifer",
+                "song",
+                "<img class=bird src=seeregenpfeifer.jpg >"
+            ],
+            "guid": "Qn`nl2}pqJ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Little Tern, Zwergseeschwalbe.mp3]",
+                "Little Tern",
+                " Zwergseeschwalbe",
+                "",
+                "<img class=bird src=zwergseeschwalbe.jpg >"
+            ],
+            "guid": "qb@L%ZrGUJ",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Pied Avocet, Säbelschnäbler.mp3]",
+                "Pied Avocet",
+                " Säbelschnäbler",
+                "",
+                "<img class=bird src=säbelschnäbler.jpg >"
+            ],
+            "guid": "PVULI.h1#{",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:1663RV_hochgeladen.mp3]",
+                "Little grebe",
+                " Zwergtaucher",
+                "",
+                "<img class=\"bird\" src=\"zwergtaucher.jpg\">"
+            ],
+            "guid": "r2YRQnnOc)",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:1662RVXC671824.mp3]",
+                "Kentish plover",
+                " Seeregenpfeifer",
+                "",
+                "<img class=\"bird\" src=\"seeregenpfeifer.jpg\">"
+            ],
+            "guid": "M]RwfOLUh3",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sperber.mp3]",
+                "sparrowhawk",
+                " Sperber",
+                "",
+                "<img class=bird src=sperber.jpg >"
+            ],
+            "guid": "iW@I#;cKgB",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC315864 - Girlitz - Serinus serinus call.mp3]",
+                "serin ",
+                " Girlitz",
+                "call",
+                "<img class=bird src=girlitz.jpg >"
+            ],
+            "guid": "Dsl(X.RQ]1",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC332360 - Trauerschnäpper - Ficedula hypoleuca call.mp3]",
+                "pied flycatcher ",
+                " Trauerschnäpper",
+                "call",
+                "<img class=bird src=trauerschnäpper.jpg >"
+            ],
+            "guid": "FYVJNYlN7z",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC495713 - Fitis - Phylloscopus trochilus call.mp3]",
+                "willow warbler ",
+                " Fitis",
+                "call",
+                "<img class=bird src=fitis.jpg >"
+            ],
+            "guid": "ce7%-_tjz?",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC536772 - Rotdrossel - Turdus iliacus call.mp3]",
+                "redwing ",
+                " Rotdrossel",
+                "call",
+                "<img class=bird src=rotdrossel.jpg >"
+            ],
+            "guid": "xj-t]Y:C`>",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC642207 - Gartenbaumläufer - Certhia brachydactyla call.mp3]",
+                "short-toed treecreeper ",
+                " Gartenbaumläufer",
+                "call",
+                "<img class=bird src=gartenbaumläufer.jpg >"
+            ],
+            "guid": "g!lI=d^6gc",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC680840 - Ringelgans - Branta bernicla.mp3]",
+                "brent goose",
+                " Ringelgans",
+                "",
+                "<img class=bird src=ringelgans.jpg >"
+            ],
+            "guid": "j=<-x_sAa9",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC680870 - Austernfischer - Haematopus ostralegus.mp3]",
+                "oystercatcher ",
+                " Austernfischer",
+                "song",
+                "<img class=bird src=austernfischer.jpg >"
+            ],
+            "guid": "jLUZqm5`Gj",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:XC682020 - Singdrossel - Turdus philomelos.mp3]",
+                "song thrush ",
+                " Singdrossel",
+                "flight call",
+                "<img class=bird src=singdrossel.jpg >"
+            ],
+            "guid": "gDAj)eXhQH",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:boreal owl - call, Raufußkauz.mp3]",
+                "boreal owl ",
+                " Raufußkauz",
+                "call",
+                "<img class=\"bird\" src=\"raufußkauz.jpg\">"
+            ],
+            "guid": "p4,$OTy:[k",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:chaffinch - song, Buchfink.mp3]",
+                "chaffinch ",
+                " Buchfink",
+                "song",
+                "<img class=bird src=buchfink.jpg >"
+            ],
+            "guid": "Nkj%I;XvVw",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Blackbird - call, Amsel.mp3]",
+                "Common Blackbird ",
+                " Amsel",
+                "call",
+                "<img class=\"bird\" src=\"amsel.jpg\">"
+            ],
+            "guid": "M0W^OmiaUC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Chaffinch - call, Buchfink.mp3]",
+                "Common Chaffinch ",
+                " Buchfink",
+                "call",
+                "<img class=\"bird\" src=\"buchfink.jpg\">"
+            ],
+            "guid": "Q.x/Vc5T52",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Cuckoo - female call, Kuckuck.mp3]",
+                "Common Cuckoo ",
+                " Kuckuck",
+                "female call",
+                "<img class=\"bird\" src=\"kuckuck.jpg\">"
+            ],
+            "guid": "ck=9|j{Tt[",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Snipe, Bekassine-1d71afddf9703ef1533bbc2e9f503acac0017e5d.mp3]",
+                "Common Snipe",
+                " Bekassine",
+                "",
+                "<img class=bird src=bekassine.jpg >"
+            ],
+            "guid": "lW4#6lsQ>n",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Blackcap - call, Mönchsgrasmücke.mp3]",
+                "Eurasian Blackcap ",
+                " Mönchsgrasmücke",
+                "call",
+                "<img class=bird src=mönchsgrasmücke.jpg >"
+            ],
+            "guid": "f1{S*u)yzM",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Curlew, Großer Brachvogel-5b3a42fc1c9a3f48eed7ffe041009375da306165.mp3]",
+                "Eurasian Curlew",
+                " Großer Brachvogel",
+                "",
+                "<img class=bird src=großer_brachvogel.jpg >"
+            ],
+            "guid": "r]{D_(>[O.",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Wren - call, Zaunkönig.mp3]",
+                "Eurasian Wren ",
+                " Zaunkönig",
+                "call",
+                "<img class=bird src=zaunkönig.jpg >"
+            ],
+            "guid": "C~T0qL$UG!",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Mistle Thrush - call, Misteldrossel.mp3]",
+                "Mistle Thrush ",
+                " Misteldrossel",
+                "call",
+                "<img class=bird src=misteldrossel.jpg >"
+            ],
+            "guid": "Khq.bJ@#!@",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Northern Raven - call, Kolkrabe.mp3]",
+                "Northern Raven ",
+                " Kolkrabe",
+                "call",
+                "<img class=bird src=kolkrabe.jpg >"
+            ],
+            "guid": "d`Wqk_cijI",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Woodlark - song,  Heidelerche.mp3]",
+                "Woodlark ",
+                " Heidelerche",
+                "song",
+                "<img class=bird src=heidelerche.jpg >"
+            ],
+            "guid": "GYSaPh(;(8",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Bohemian Waxwing - call, Seidenschwanz.mp3]",
+                "Bohemian Waxwing ",
+                " Seidenschwanz",
+                "call",
+                "<img class=\"bird\" src=\"seidenschwanz.jpg\">"
+            ],
+            "guid": "uO(F}9C$w<",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:common linnet - flight call, Bluthaenfling.mp3]",
+                "common linnet ",
+                " Bluthänfling",
+                "flight call",
+                "<img class=bird src=bluthänfling.jpg >"
+            ],
+            "guid": "gFU}By!SLs",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Loon - song, Eistaucher.mp3]",
+                "Common Loon ",
+                " Eistaucher",
+                "song",
+                "<img class=bird src=eistaucher.jpg >"
+            ],
+            "guid": "A+rl:k@lEF",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Pochard - song, Tafelente.mp3]",
+                "Common Pochard ",
+                " Tafelente",
+                "song",
+                "<img class=bird src=tafelente.jpg >"
+            ],
+            "guid": "bgo4/Quj~4",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Shelduck, Brandgans (2).mp3]",
+                "Common Shelduck",
+                " Brandgans",
+                "",
+                "<img class=bird src=brandgans.jpg >"
+            ],
+            "guid": "jpQVTzFPy<",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Common Shelduck, Brandgans.mp3]",
+                "Common Shelduck",
+                " Brandgans",
+                "",
+                "<img class=bird src=brandgans.jpg >"
+            ],
+            "guid": "J*(vtNLZh*",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:dunnock- flight call, Heckenbraunelle.mp3]",
+                "dunnock",
+                " Heckenbraunelle",
+                "flight call",
+                "<img class=bird src=heckenbraunelle.jpg >"
+            ],
+            "guid": "MEJc[)vX7T",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Bullfinch - call, Gimpel.mp3]",
+                "Eurasian Bullfinch ",
+                " Gimpel",
+                "call",
+                "<img class=bird src=gimpel.jpg >"
+            ],
+            "guid": "KOGDs?MMO8",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Teal , Krickente (2).mp3]",
+                "Eurasian Teal ",
+                " Krickente",
+                "",
+                "<img class=bird src=krickente.jpg >"
+            ],
+            "guid": "B!^1J1MU-h",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Teal , Krickente.mp3]",
+                "Eurasian Teal ",
+                " Krickente",
+                "",
+                "<img class=bird src=krickente.jpg >"
+            ],
+            "guid": "KR`^brRIB-",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Eurasian Woodcock, Waldschnepfe.mp3]",
+                "Eurasian Woodcock",
+                " Waldschnepfe",
+                "",
+                "<img class=bird src=waldschnepfe.jpg >"
+            ],
+            "guid": "FXQh<EBam4",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Green Woodpecker - song, Grünspecht.mp3]",
+                "Green Woodpecker ",
+                " Grünspecht",
+                "song",
+                "<img class=bird src=grünspecht.jpg >"
+            ],
+            "guid": "yF2;WS}Hvd",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Oriole - call,  Pirol.mp3]",
+                "Oriole ",
+                " Pirol",
+                "call",
+                "<img class=bird src=pirol.jpg >"
+            ],
+            "guid": "AKJ,JBgCGc",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Oriole - song, Pirol.mp3]",
+                "Oriole ",
+                " Pirol",
+                "song",
+                "<img class=bird src=pirol.jpg >"
+            ],
+            "guid": "NBqY%vCzl8",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-throated Loon - call, Sterntaucher.mp3]",
+                "Red-throated Loon ",
+                " Sterntaucher",
+                "call",
+                "<img class=bird src=sterntaucher.jpg >"
+            ],
+            "guid": "yP~v9Wb6WC",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-throated Loon - song, Sterntaucher.mp3]",
+                "Red-throated Loon ",
+                " Sterntaucher",
+                "song",
+                "<img class=bird src=sterntaucher.jpg >"
+            ],
+            "guid": "O%PM4XK`%B",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Red-throated Pipit - call, Rotkehlpieper.mp3]",
+                "Red-throated Pipit ",
+                " Rotkehlpieper",
+                "call",
+                "<img class=bird src=rotkehlpieper.jpg >"
+            ],
+            "guid": "i7xWhR:,WU",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Sanderling - call, Sanderling.mp3]",
+                "Sanderling ",
+                " Sanderling",
+                "call",
+                "<img class=bird src=sanderling.jpg >"
+            ],
+            "guid": "fP+Y~y&i.>",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:skylark - flight call, Feldlerche.mp3]",
+                "skylark ",
+                " Feldlerche",
+                "flight call",
+                "<img class=bird src=feldlerche.jpg >"
+            ],
+            "guid": "uZK|k9kaki",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Whooper Swan, Singschwan.mp3]",
+                "Whooper Swan",
+                " Singschwan",
+                "",
+                "<img class=bird src=singschwan.jpg >"
+            ],
+            "guid": "Q+hzmf}hU#",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Gadwall, Schnatterente.mp3]",
+                "Gadwall",
+                " Schnatterente",
+                "",
+                "<img class=bird src=schnatterernte.jpg >"
+            ],
+            "guid": "vW:6,1y>QX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Hume's Leaf Warbler call, Tienschan-Laubsänger.mp3]",
+                "Hume's Leaf Warbler",
+                "Tienschan-Laubsänger",
+                "",
+                "<img class=bird src=tienschan-laubsänger.jpg >"
+            ],
+            "guid": "i!`r:+p/kX",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Ruddy Shelduck , Rostgans.mp3]",
+                "Ruddy Shelduck ",
+                " Rostgans",
+                "",
+                "<img class=bird src=rostgans.jpg >"
+            ],
+            "guid": "y3DcsT=PuP",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:Ruddy Shelduck, Rostgans.mp3]",
+                "Ruddy Shelduck",
+                " Rostgans",
+                "",
+                "<img class=bird src=rostgans.jpg >"
+            ],
+            "guid": "ej7MS~;!7s",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:yellowhammer call, Goldammer.mp3]",
+                "yellowhammer call",
+                " Goldammer",
+                "",
+                "<img class=bird src=goldammer.jpg >"
+            ],
+            "guid": "zb~e4iNI>u",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:WanderfalteT.mp3]",
+                "peregrine falcon",
+                " Wanderfalke",
+                "",
+                "<img class=bird src=wanderfalke.jpg >"
+            ],
+            "guid": "d5VQ(q>m)L",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:BG.mp3]",
+                "greater white-fronted goose",
+                " Blässgans",
+                "",
+                "<img class=\"bird\" src=\"blässgans.jpg\">"
+            ],
+            "guid": "i:~zeXsg1q",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "[sound:220417_001XC.mp3]",
+                "black grouse",
+                " Birkhuhn",
+                "",
+                "<img class=\"bird\" src=\"birkhuhn.jpg\">"
+            ],
+            "guid": "i4D!3nkqM)",
+            "note_model_uuid": "8215b206-c3e4-11ec-9cbd-9cb6d013a4a3",
+            "tags": []
+        }
+    ]
+}
